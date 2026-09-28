@@ -10,7 +10,7 @@ local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 
 -- IMPORTANT: Paste your ID and Token back in!
-local WEBHOOK_URL = "https://discord.com/api/webhooks/1474256118762176554/3cVZVBZf9WvLHzbbPYg97OC2yeVXFE5Uxz3QyEENBFQUw9EObaoA70hBZnWdxvJ3JmSU"
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1554068786829598742/vxwRwHfQcfjUxxxvhWQpzDVfj4uY2_U0f_ydZwPXWnYvdts2jFQP_P_NjGArSQvT2ocM"
 
 local busModel = script.Parent.Parent 
 local driveSeat = script.Parent 
