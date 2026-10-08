@@ -25,11 +25,23 @@ while wait() do
 
 		--Hanwick Data
 
-	
+	elseif script.Parent.Model.Rt.R.Num.Text == "93Y" then
+		show("rbxassetid://122319943877350","rbxassetid://83947526357232","rbxassetid://83256804305554")
+		wait(4)
+		show("rbxassetid://116593749232179","rbxassetid://121630823355282","rbxassetid://83256804305554")
+		wait(4)
 
+	elseif script.Parent.Model.Rt.R.Num.Text == "93Z" then
+		show("rbxassetid://125017514363701","rbxassetid://100904023751559","rbxassetid://83256804305554")
+		
+	elseif script.Parent.Model.Rt.R.Num.Text == "93AY" then
+		show("rbxassetid://109613870168231","rbxassetid://114618718514494","rbxassetid://86375442700030")
 
-
-
+	elseif script.Parent.Model.Rt.R.Num.Text == "93AZ" then
+		show("rbxassetid://86672910832269","rbxassetid://115065688476123","rbxassetid://86375442700030")
+		wait(4)
+		show("rbxassetid://134585178158662","rbxassetid://115065688476123","rbxassetid://86375442700030")
+		wait(4)
 		--yick data
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "00" then
