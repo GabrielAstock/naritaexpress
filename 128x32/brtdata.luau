@@ -16,7 +16,7 @@ while wait() do
 	-- Non-RT DATA
 
 	if script.Parent.Model.Rt.R.Num.Text == "NIS" then
-		show("https://assetgame.roblox.com/asset/?id=14657683006&assetName=NIS %281%29","https://assetgame.roblox.com/asset/?id=14683244875&assetName=NIS %282%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657683006&assetName=NIS %281%29","https://assetgame.roblox.com/asset/?id=14683244875&assetName=NIS %282%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "0" then
 		show("","","")
@@ -25,19 +25,19 @@ while wait() do
 		show("http://www.roblox.com/asset/?id=16713957664","http://www.roblox.com/asset/?id=16713962563","")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "P" then
-		show("https://assetgame.roblox.com/asset/?id=14657682625&assetName=P","https://assetgame.roblox.com/asset/?id=14683244574&assetName=P %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657682625&assetName=P","https://assetgame.roblox.com/asset/?id=14683244574&assetName=P %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "D" then
-		show("https://assetgame.roblox.com/asset/?id=14657685574&assetName=D","https://assetgame.roblox.com/asset/?id=14683247115&assetName=D %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657685574&assetName=D","https://assetgame.roblox.com/asset/?id=14683247115&assetName=D %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "DROP" then
-		show("https://assetgame.roblox.com/asset/?id=14657685322&assetName=DROP","https://assetgame.roblox.com/asset/?id=14683246861&assetName=DROP %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657685322&assetName=DROP","https://assetgame.roblox.com/asset/?id=14683246861&assetName=DROP %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "FS" then
-		show("https://assetgame.roblox.com/asset/?id=14657684527&assetName=FS","https://assetgame.roblox.com/asset/?id=14683246007&assetName=FS %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657684527&assetName=FS","https://assetgame.roblox.com/asset/?id=14683246007&assetName=FS %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "T" then
-		show("https://assetgame.roblox.com/asset/?id=14657680342&assetName=T","https://assetgame.roblox.com/asset/?id=14683414085&assetName=T - 複製","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657680342&assetName=T","https://assetgame.roblox.com/asset/?id=14683414085&assetName=T - 複製","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "TEST" then
 		show("https://assetgame.roblox.com/asset/?id=14657679716&assetName=TEST","https://assetgame.roblox.com/asset/?id=14683242280&assetName=TEST %281%29","https://assetgame.roblox.com/asset/?id=14657903893&assetName=BROKEN_TEST")
@@ -46,43 +46,40 @@ while wait() do
 		show("https://assetgame.roblox.com/asset/?id=14657685867&assetName=BROKEN","https://assetgame.roblox.com/asset/?id=14683247350&assetName=BROKEN %281%29","https://assetgame.roblox.com/asset/?id=14657903893&assetName=BROKEN_TEST")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "TB" then
-		show("https://assetgame.roblox.com/asset/?id=14657680022&assetName=TB","https://assetgame.roblox.com/asset/?id=14683242531&assetName=TB %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657680022&assetName=TB","https://assetgame.roblox.com/asset/?id=14683242531&assetName=TB %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "S" then
-		show("https://assetgame.roblox.com/asset/?id=14657681331&assetName=S","https://assetgame.roblox.com/asset/?id=14683243664&assetName=S %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657681331&assetName=S","https://assetgame.roblox.com/asset/?id=14683243664&assetName=S %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "ST" then
-		show("https://assetgame.roblox.com/asset/?id=14657680612&assetName=ST","https://assetgame.roblox.com/asset/?id=14683242943&assetName=ST %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657680612&assetName=ST","https://assetgame.roblox.com/asset/?id=14683242943&assetName=ST %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "SP" then
-		show("https://assetgame.roblox.com/asset/?id=14657680831&assetName=SP","","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657680831&assetName=SP","","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "R" then
-		show("https://assetgame.roblox.com/asset/?id=14657682020&assetName=R","https://assetgame.roblox.com/asset/?id=14683244116&assetName=R %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657682020&assetName=R","https://assetgame.roblox.com/asset/?id=14683244116&assetName=R %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "RR" then
-		show("https://assetgame.roblox.com/asset/?id=14657681649&assetName=RR","https://assetgame.roblox.com/asset/?id=14683243898&assetName=RP","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657681649&assetName=RR","https://assetgame.roblox.com/asset/?id=14683243898&assetName=RP","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "EFB" then
-		show("https://assetgame.roblox.com/asset/?id=14657685103&assetName=EFB","https://assetgame.roblox.com/asset/?id=14683246624&assetName=EFB %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
-
-	elseif script.Parent.Model.Rt.R.Num.Text == "MTB" then
-		show("https://assetgame.roblox.com/asset/?id=14657683475&assetName=MTB","https://assetgame.roblox.com/asset/?id=14683245338&assetName=MTB %282%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657685103&assetName=EFB","https://assetgame.roblox.com/asset/?id=14683246624&assetName=EFB %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "MONEY" then
-		show("https://assetgame.roblox.com/asset/?id=14657683901&assetName=MONEY","https://assetgame.roblox.com/asset/?id=14683245522&assetName=MONEY %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657683901&assetName=MONEY","https://assetgame.roblox.com/asset/?id=14683245522&assetName=MONEY %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "MVE" then
-		show("https://assetgame.roblox.com/asset/?id=14657683214&assetName=MVE","https://assetgame.roblox.com/asset/?id=14683245083&assetName=MVE %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657683214&assetName=MVE","https://assetgame.roblox.com/asset/?id=14683245083&assetName=MVE %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "PLG" then
-		show("https://assetgame.roblox.com/asset/?id=14657682342&assetName=PLG","https://assetgame.roblox.com/asset/?id=14683244350&assetName=PLG %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657682342&assetName=PLG","https://assetgame.roblox.com/asset/?id=14683244350&assetName=PLG %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "SE" then
-		show("https://assetgame.roblox.com/asset/?id=14657681085&assetName=SE","https://assetgame.roblox.com/asset/?id=14683243418&assetName=SE %282%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657681085&assetName=SE","https://assetgame.roblox.com/asset/?id=14683243418&assetName=SE %282%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "EXP" then
-		show("https://assetgame.roblox.com/asset/?id=14657684834&assetName=EXP","https://assetgame.roblox.com/asset/?id=14683246333&assetName=EXP %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657684834&assetName=EXP","https://assetgame.roblox.com/asset/?id=14683246333&assetName=EXP %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "BRT" then
 		show("http://www.roblox.com/asset/?id=16713960382","http://www.roblox.com/asset/?id=16713962764","")
@@ -124,16 +121,16 @@ while wait() do
 		wait(4)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "700" then
-		show("https://assetgame.roblox.com/asset/?id=14657807048&assetName=700","https://assetgame.roblox.com/asset/?id=14682893927&assetName=700 %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657807048&assetName=700","https://assetgame.roblox.com/asset/?id=14682893927&assetName=700 %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "701" then
-		show("https://assetgame.roblox.com/asset/?id=14657806677&assetName=701","https://assetgame.roblox.com/asset/?id=14682893733&assetName=701 %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657806677&assetName=701","https://assetgame.roblox.com/asset/?id=14682893733&assetName=701 %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "702" then
-		show("https://assetgame.roblox.com/asset/?id=14657806335&assetName=702","https://assetgame.roblox.com/asset/?id=14683434506&assetName=702 - 複製","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657806335&assetName=702","https://assetgame.roblox.com/asset/?id=14683434506&assetName=702 - 複製","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "703" then
-		show("https://assetgame.roblox.com/asset/?id=14657806011&assetName=703","https://assetgame.roblox.com/asset/?id=14682893245&assetName=703 %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657806011&assetName=703","https://assetgame.roblox.com/asset/?id=14682893245&assetName=703 %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "ADL" then
 		show("https://assetgame.roblox.com/asset/?id=14657805767&assetName=ADL","https://assetgame.roblox.com/asset/?id=14682893035&assetName=ADL %281%29","")
@@ -160,13 +157,25 @@ while wait() do
 		show("https://assetgame.roblox.com/asset/?id=14657802706&assetName=YM","https://assetgame.roblox.com/asset/?id=14682890267&assetName=YM %281%29","")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "GIVE" then
-		show("https://assetgame.roblox.com/asset/?id=14657804485&assetName=GIVE","https://assetgame.roblox.com/asset/?id=14682891785&assetName=GIVE %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657804485&assetName=GIVE","https://assetgame.roblox.com/asset/?id=14682891785&assetName=GIVE %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "KM2369" then
 		show("https://assetgame.roblox.com/asset/?id=14657804057&assetName=KM2369","https://assetgame.roblox.com/asset/?id=14682891606&assetName=KM2369 %281%29","")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "ASIA" then
 		show("https://assetgame.roblox.com/asset/?id=14657805483&assetName=ASIA","https://assetgame.roblox.com/asset/?id=14682892834&assetName=ASIA %281%29","")
+
+		elseif script.Parent.Model.Rt.R.Num.Text == "HKKF" then
+		show("rbxassetid://129180733092557","rbxassetid://91406761899781","rbxassetid://84631222011479")
+
+		elseif script.Parent.Model.Rt.R.Num.Text == "AKB48" then
+		show("rbxassetid://80952487920572","rbxassetid://87291511075536","rbxassetid://102271909574172")
+		
+	elseif script.Parent.Model.Rt.R.Num.Text == "TURBOJET" then
+		show("rbxassetid://117008575769793","rbxassetid://117459853023312","rbxassetid://99484066309871")
+		wait(4)
+		show("rbxassetid://130503852356402","rbxassetid://76938134851583","rbxassetid://99484066309871")
+		wait(4)
 
 
 
