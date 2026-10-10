@@ -109,8 +109,18 @@ while wait() do
 		wait(4)
 		show("rbxassetid://113900170741165","rbxassetid://130391824182891","")
 		wait(4)
+
+		elseif script.Parent.Model.Rt.R.Num.Text == "HKKF" then
+		show("rbxassetid://129180733092557","rbxassetid://91406761899781","rbxassetid://84631222011479")
+
+		elseif script.Parent.Model.Rt.R.Num.Text == "AKB48" then
+		show("rbxassetid://80952487920572","rbxassetid://87291511075536","rbxassetid://102271909574172")
 		
-		
+	elseif script.Parent.Model.Rt.R.Num.Text == "TURBOJET" then
+		show("rbxassetid://117008575769793","rbxassetid://117459853023312","rbxassetid://99484066309871")
+		wait(4)
+		show("rbxassetid://130503852356402","rbxassetid://76938134851583","rbxassetid://99484066309871")
+		wait(4)
 		
 
 	else show("rbxassetid://87290154770131","rbxassetid://91635280603257","rbxassetid://97019838659675")
