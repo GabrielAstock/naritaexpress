@@ -19,7 +19,7 @@ while wait() do
 		show("rbxassetid://138495492260276","rbxassetid://103667951029106","rbxassetid://105007321498801")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "NEXT" then
-		show("rbxassetid://87290154770131","rbxassetid://112929056325376","rbxassetid://97019838659675")
+		show("rbxassetid://87290154770131","rbxassetid://75427711238165","rbxassetid://97019838659675")
 
 		--Depots
 
@@ -117,7 +117,7 @@ while wait() do
 		show("rbxassetid://80952487920572","rbxassetid://87291511075536","rbxassetid://102271909574172")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "MNTRO" then
-	show("rbxassetid://71021693140615","rbxassetid://94726965518242","rbxassetid://70579021257267")
+	show("rbxassetid://111317915231778","rbxassetid://105927072071310","rbxassetid://111638594600316")
 
 		
 	elseif script.Parent.Model.Rt.R.Num.Text == "TURBOJET" then
@@ -127,7 +127,7 @@ while wait() do
 		wait(4)
 		
 
-	else show("rbxassetid://87290154770131","rbxassetid://91635280603257","rbxassetid://97019838659675")
+	else show("rbxassetid://87290154770131","rbxassetid://75427711238165","rbxassetid://97019838659675")
 	
 		--script.Parent.Back.R.Num.Text = script.Parent.Model.Rt.R.Num.Text
 		--script.Parent.Front.R.Num.Text = script.Parent.Model.Rt.R.Num.Text
