@@ -19,7 +19,7 @@ while wait() do
 		show("rbxassetid://138495492260276","rbxassetid://103667951029106","rbxassetid://105007321498801")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "NEXT" then
-		show("rbxassetid://87290154770131","rbxassetid://91635280603257","rbxassetid://97019838659675")
+		show("rbxassetid://87290154770131","rbxassetid://112929056325376","rbxassetid://97019838659675")
 
 		--Depots
 
@@ -115,6 +115,10 @@ while wait() do
 
 		elseif script.Parent.Model.Rt.R.Num.Text == "AKB48" then
 		show("rbxassetid://80952487920572","rbxassetid://87291511075536","rbxassetid://102271909574172")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "MNTRO" then
+	show("rbxassetid://71021693140615","rbxassetid://94726965518242","rbxassetid://70579021257267")
+
 		
 	elseif script.Parent.Model.Rt.R.Num.Text == "TURBOJET" then
 		show("rbxassetid://117008575769793","rbxassetid://117459853023312","rbxassetid://99484066309871")
