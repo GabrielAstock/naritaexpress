@@ -21,6 +21,12 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "0" then
 		show("","","")
 
+	elseif script.Parent.Model.Rt.R.Num.Text == "HMTA" then
+		show("rbxassetid://90247614246976","rbxassetid://121542988293928","")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "NEXT" then
+		show("rbxassetid://87290154770131","rbxassetid://91635280603257","rbxassetid://97019838659675")
+
 	elseif script.Parent.Model.Rt.R.Num.Text == "V" then
 		show("http://www.roblox.com/asset/?id=16713957664","http://www.roblox.com/asset/?id=16713962563","")
 
