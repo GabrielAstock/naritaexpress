@@ -179,11 +179,9 @@ while wait() do
 		
 	elseif script.Parent.Model.Rt.R.Num.Text == "TURBOJET" then
 		show("rbxassetid://117008575769793","rbxassetid://117459853023312","rbxassetid://99484066309871")
-		wait(4)
+		wait(2)
 		show("rbxassetid://130503852356402","rbxassetid://76938134851583","rbxassetid://99484066309871")
-		wait(4)
-
-
+		wait(2)
 
 	else show("http://www.roblox.com/asset/?id=16713960382","http://www.roblox.com/asset/?id=16713962764","")
 		script.Parent.Back.R.Num.Text = script.Parent.Model.Rt.R.Num.Text
