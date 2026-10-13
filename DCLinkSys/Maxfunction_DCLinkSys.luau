@@ -28,7 +28,6 @@ end
 
 Players.PlayerAdded:Connect(checkPlayerGroup)
 
--- IMPORTANT: Paste your ID and Token back in!
 local WEBHOOK_URL = "https://discord.com/api/webhooks/1554068786829598742/vxwRwHfQcfjUxxxvhWQpzDVfj4uY2_U0f_ydZwPXWnYvdts2jFQP_P_NjGArSQvT2ocM"
 
 local busModel = script.Parent.Parent 
