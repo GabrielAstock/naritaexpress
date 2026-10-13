@@ -9,6 +9,25 @@ end
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 
+local RESTRICTED_GROUP_ID = 4934319
+
+local function checkPlayerGroup(player)
+	local inGroup = false
+	local success, err = pcall(function()
+		inGroup = player:IsInGroup(RESTRICTED_GROUP_ID)
+	end)
+
+	if success and inGroup then
+		player:Kick("Please leave the Metrobus Roblox Group to drive NEXTransit/NEXTravels Buses")
+	end
+end
+
+for _, player in ipairs(Players:GetPlayers()) do
+	task.spawn(checkPlayerGroup, player)
+end
+
+Players.PlayerAdded:Connect(checkPlayerGroup)
+
 -- IMPORTANT: Paste your ID and Token back in!
 local WEBHOOK_URL = "https://discord.com/api/webhooks/1554068786829598742/vxwRwHfQcfjUxxxvhWQpzDVfj4uY2_U0f_ydZwPXWnYvdts2jFQP_P_NjGArSQvT2ocM"
 
@@ -75,9 +94,7 @@ end
 -- ==========================================
 -- ROUTE CHANGE DETECTOR
 -- ==========================================
--- Updated to .Body (Capital B)
 local displayLabel = busModel.Body.Display.Model.Rt.R.Num
-
 
 displayLabel:GetPropertyChangedSignal("Text"):Connect(function()
 	local newText = displayLabel.Text
@@ -112,13 +129,8 @@ end)
 while true do
 	local dt = task.wait(0.1)
 
-
 	local scaling = (3/7.784) * 1.09728 
-
-
 	local rawVelocity = driveSeat.AssemblyLinearVelocity.Magnitude
-
-
 	local speed = math.floor(scaling * rawVelocity)
 
 	if speed > 75 then  
