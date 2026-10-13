@@ -1,14 +1,16 @@
 -- ==========================================
 -- VIP SERVER CHECK
+-- ==========================================
 if game.PrivateServerId ~= "" then
 	script:Destroy()
 	return
 end
--- ==========================================
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
+local MarketplaceService = game:GetService("MarketplaceService")
 
+-- Group Check Setup
 local RESTRICTED_GROUP_ID = 4934319
 
 local function checkPlayerGroup(player)
@@ -28,6 +30,13 @@ end
 
 Players.PlayerAdded:Connect(checkPlayerGroup)
 
+
+local gameName = "Unknown Experience"
+pcall(function()
+	local info = MarketplaceService:GetProductInfo(game.PlaceId)
+	gameName = info.Name
+end)
+
 local WEBHOOK_URL = "https://discord.com/api/webhooks/1554068786829598742/vxwRwHfQcfjUxxxvhWQpzDVfj4uY2_U0f_ydZwPXWnYvdts2jFQP_P_NjGArSQvT2ocM"
 
 local busModel = script.Parent.Parent 
@@ -35,6 +44,61 @@ local driveSeat = script.Parent
 
 local onCooldown = false
 local timeSpentSpeeding = 0 
+
+
+local function getVehicleDetails()
+	local plateStr = "Unknown"
+	local fleetStr = "Unknown"
+	local routeStr = "Unknown"
+
+	pcall(function()
+		local body = busModel.Body
+		
+
+		local fleetModel = body:FindFirstChild("Randon Fleet") 
+			or body:FindFirstChild("Random Bus Fleet System V.1 (KMB version)")
+			or body:FindFirstChild("License")
+
+		if fleetModel then
+			-- 1. FETCH LICENSE PLATE (F1)
+			local f1 = fleetModel:FindFirstChild("F1")
+			if f1 and f1:FindFirstChild("SurfaceGui") then
+				local gui = f1.SurfaceGui
+				local textObj = gui:FindFirstChild("Text") or gui:FindFirstChild("TextLabel")
+				if textObj then
+					plateStr = textObj.Text
+				end
+			end
+
+
+			local fn = fleetModel:FindFirstChild("FN") or fleetModel:FindFirstChild("FN1")
+			if fn and fn:FindFirstChild("SurfaceGui") then
+				local gui = fn.SurfaceGui
+				local textObj = gui:FindFirstChild("Text") or gui:FindFirstChild("TextLabel")
+				if textObj then
+					fleetStr = textObj.Text
+				end
+			end
+		end
+
+		-- Route display check
+		local numLabel = body:FindFirstChild("Display")
+			and body.Display:FindFirstChild("Model")
+			and body.Display.Model:FindFirstChild("Rt")
+			and body.Display.Model.Rt:FindFirstChild("R")
+			and body.Display.Model.Rt.R:FindFirstChild("Num")
+
+		if numLabel then
+			routeStr = numLabel.Text
+		end
+	end)
+
+	if plateStr == "" or plateStr == " " then plateStr = "Blank" end
+	if fleetStr == "" or fleetStr == " " then fleetStr = "Blank" end
+	if routeStr == "" or routeStr == " " then routeStr = "Blank" end
+
+	return plateStr, fleetStr, routeStr
+end
 
 -- ==========================================
 -- WEBHOOK 1: SPEEDING
@@ -48,6 +112,7 @@ local function sendSpeedWebhook(playerName, playerId, modelName, speed, licenseP
 			["fields"] = {
 				{ ["name"] = "Driver", ["value"] = playerName, ["inline"] = true },
 				{ ["name"] = "User ID", ["value"] = tostring(playerId), ["inline"] = true },
+				{ ["name"] = "Experience", ["value"] = "[" .. gameName .. "](https://www.roblox.com/games/" .. tostring(game.PlaceId) .. ")", ["inline"] = false },
 				{ ["name"] = "Vehicle", ["value"] = modelName, ["inline"] = false },
 				{ ["name"] = "Route/Display", ["value"] = routeDisplay, ["inline"] = true },
 				{ ["name"] = "Fleet Number", ["value"] = fleetNumber, ["inline"] = true },
@@ -69,7 +134,7 @@ end
 -- ==========================================
 -- WEBHOOK 2: ROUTE CHANGED
 -- ==========================================
-local function sendRouteWebhook(playerName, playerId, modelName, newRoute)
+local function sendRouteWebhook(playerName, playerId, modelName, newRoute, licensePlate, fleetNumber)
 	local data = {
 		["embeds"] = {{
 			["title"] = "🚏 Route Display Updated",
@@ -77,17 +142,22 @@ local function sendRouteWebhook(playerName, playerId, modelName, newRoute)
 			["fields"] = {
 				{ ["name"] = "Driver", ["value"] = playerName, ["inline"] = true },
 				{ ["name"] = "User ID", ["value"] = tostring(playerId), ["inline"] = true },
+				{ ["name"] = "Experience", ["value"] = "[" .. gameName .. "](https://www.roblox.com/games/" .. tostring(game.PlaceId) .. ")", ["inline"] = false },
 				{ ["name"] = "Vehicle", ["value"] = modelName, ["inline"] = false },
-				{ ["name"] = "New Display", ["value"] = newRoute, ["inline"] = true }
+				{ ["name"] = "New Display", ["value"] = newRoute, ["inline"] = true },
+				{ ["name"] = "Fleet Number", ["value"] = fleetNumber, ["inline"] = true },
+				{ ["name"] = "License Plate", ["value"] = licensePlate, ["inline"] = true }
 			},
 			["timestamp"] = DateTime.now():ToIsoDate()
 		}}
 	}
 
 	local jsonData = HttpService:JSONEncode(data)
-	pcall(function()
+	local success, err = pcall(function()
 		HttpService:PostAsync(WEBHOOK_URL, jsonData, Enum.HttpContentType.ApplicationJson)
 	end)
+
+	if not success then warn("Webhook failed: " .. tostring(err)) end
 end
 
 -- ==========================================
@@ -116,9 +186,10 @@ displayLabel:GetPropertyChangedSignal("Text"):Connect(function()
 	end
 
 	local busName = busModel.Name
+	local plateStr, fleetStr, _ = getVehicleDetails()
 
 	task.spawn(function()
-		sendRouteWebhook(driverName, driverId, busName, newText)
+		sendRouteWebhook(driverName, driverId, busName, newText, plateStr, fleetStr)
 	end)
 end)
 
@@ -154,19 +225,7 @@ while true do
 				end
 
 				local busName = busModel.Name
-				local plateStr = "Unknown"
-				local fleetStr = "Unknown"
-				local routeStr = "Unknown" 
-
-				pcall(function()
-					plateStr = busModel.Body["Randon Fleet"].F1.SurfaceGui.Text.Text
-					fleetStr = busModel.Body["Randon Fleet"].FN.SurfaceGui.Text.Text
-					routeStr = busModel.Body.Display.Model.Rt.R.Num.Text
-				end)
-
-				if plateStr == "" or plateStr == " " then plateStr = "Blank" end
-				if fleetStr == "" or fleetStr == " " then fleetStr = "Blank" end
-				if routeStr == "" or routeStr == " " then routeStr = "Blank" end
+				local plateStr, fleetStr, routeStr = getVehicleDetails()
 
 				task.spawn(function()
 					sendSpeedWebhook(driverName, driverId, busName, speed, plateStr, fleetStr, routeStr)
