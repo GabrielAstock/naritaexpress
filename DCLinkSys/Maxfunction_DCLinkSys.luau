@@ -20,7 +20,7 @@ local function checkPlayerGroup(player)
 	end)
 
 	if success and inGroup then
-		player:Kick("Please leave the Metrobus Roblox Group to drive NEXTransit/NEXTravels Buses")
+		player:Kick("Please leave the Metrobus Roblox Group to join!")
 	end
 end
 
