@@ -83,12 +83,19 @@ while wait() do
 		wait(4)
 		show("rbxassetid://126902311497199","rbxassetid://117192053036379","rbxassetid://95162568854311")
 		wait(4)
+		show("rbxassetid://103970679211201","rbxassetid://110790551866840","rbxassetid://95162568854311")
+		wait(4)
 		
 	elseif script.Parent.Model.Rt.R.Num.Text == "94XZ" then
 		show("rbxassetid://103970679211201","rbxassetid://72417202767823","rbxassetid://95162568854311")
 		wait(4)
-		show("rbxassetid://97281713538253","rbxassetid://84394468737821","rbxassetid://95162568854311")
+		show("rbxassetid://110790551866840","rbxassetid://84394468737821","rbxassetid://95162568854311")
 		wait(4)
+		show("rbxassetid://103970679211201","rbxassetid://72417202767823","rbxassetid://95162568854311")
+		wait(4)
+		show("rbxassetid://119649121854239","rbxassetid://109029029627882","rbxassetid://95162568854311")
+		wait(4)
+		
 		
 	elseif script.Parent.Model.Rt.R.Num.Text == "N94Y" then
 		show("rbxassetid://91286363455747","rbxassetid://92996224374671","rbxassetid://136920510013302")
@@ -129,7 +136,7 @@ while wait() do
 		show("https://assetgame.roblox.com/asset/?id=14657806677&assetName=701","https://assetgame.roblox.com/asset/?id=14682893733&assetName=701 %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "702" then
-		show("https://assetgame.roblox.com/asset/?id=14657806335&assetName=702","https://assetgame.roblox.com/asset/?id=14683434506&assetName=702 - 複製","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657806335&assetName=702","https://assetgame.roblox.com/asset/?id=14683434506&assetName=702 -     ","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "703" then
 		show("https://assetgame.roblox.com/asset/?id=14657806011&assetName=703","https://assetgame.roblox.com/asset/?id=14682893245&assetName=703 %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
