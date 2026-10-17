@@ -160,6 +160,9 @@ while wait() do
 		
 	elseif script.Parent.Model.Rt.R.Num.Text == "114514" then
 		show("http://www.roblox.com/asset/?id=104091928597350","http://www.roblox.com/asset/?id=84411320668600","http://www.roblox.com/asset/?id=136140828158608")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "HMTA" then
+		show("rbxassetid://90247614246976","rbxassetid://121542988293928","")
 		
 	elseif script.Parent.Model.Rt.R.Num.Text == "1001" then
 		show("rbxassetid://103382091568951","rbxassetid://140307135873846","")
