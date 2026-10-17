@@ -170,6 +170,15 @@ while wait() do
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "ASIA" then
 		show("https://assetgame.roblox.com/asset/?id=14657805483&assetName=ASIA","https://assetgame.roblox.com/asset/?id=14682892834&assetName=ASIA %281%29","")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "HKKF" then
+		show("rbxassetid://129180733092557","rbxassetid://91406761899781","rbxassetid://84631222011479")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "AKB48" then
+		show("rbxassetid://80952487920572","rbxassetid://87291511075536","rbxassetid://102271909574172")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "TURBOJET" then
+		show("rbxassetid://117008575769793","rbxassetid://76938134851583","rbxassetid://99484066309871")
 		
 	elseif script.Parent.Model.Rt.R.Num.Text == "AD" then
 		show("rbxassetid://117214654044824","rbxassetid://119992005436701","rbxassetid://119992005436701")
