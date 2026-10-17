@@ -79,11 +79,11 @@ while wait() do
 		wait(4)
 		
 	elseif script.Parent.Model.Rt.R.Num.Text == "94XY" then
-		show("rbxassetid://84394468737821","rbxassetid://134777869678558","rbxassetid://95162568854311")
+		show("rbxassetid://108370115668871","rbxassetid://134777869678558","rbxassetid://95162568854311")
 		wait(4)
 		show("rbxassetid://126902311497199","rbxassetid://117192053036379","rbxassetid://95162568854311")
 		wait(4)
-		show("rbxassetid://103970679211201","rbxassetid://110790551866840","rbxassetid://95162568854311")
+		show("rbxassetid://97281713538253","rbxassetid://110790551866840","rbxassetid://95162568854311")
 		wait(4)
 		
 	elseif script.Parent.Model.Rt.R.Num.Text == "94XZ" then
@@ -130,16 +130,16 @@ while wait() do
 		wait(4)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "700" then
-		show("https://assetgame.roblox.com/asset/?id=14657807048&assetName=700","https://assetgame.roblox.com/asset/?id=14682893927&assetName=700 %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657807048&assetName=700","https://assetgame.roblox.com/asset/?id=14682893927&assetName=700 %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "701" then
-		show("https://assetgame.roblox.com/asset/?id=14657806677&assetName=701","https://assetgame.roblox.com/asset/?id=14682893733&assetName=701 %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657806677&assetName=701","https://assetgame.roblox.com/asset/?id=14682893733&assetName=701 %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "702" then
-		show("https://assetgame.roblox.com/asset/?id=14657806335&assetName=702","https://assetgame.roblox.com/asset/?id=14683434506&assetName=702 -     ","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657806335&assetName=702","https://assetgame.roblox.com/asset/?id=14683434506&assetName=702 - ¡»","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "703" then
-		show("https://assetgame.roblox.com/asset/?id=14657806011&assetName=703","https://assetgame.roblox.com/asset/?id=14682893245&assetName=703 %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657806011&assetName=703","https://assetgame.roblox.com/asset/?id=14682893245&assetName=703 %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "ADL" then
 		show("https://assetgame.roblox.com/asset/?id=14657805767&assetName=ADL","https://assetgame.roblox.com/asset/?id=14682893035&assetName=ADL %281%29","")
