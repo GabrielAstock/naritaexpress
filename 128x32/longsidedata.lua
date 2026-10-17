@@ -166,7 +166,7 @@ while wait() do
 		show("https://assetgame.roblox.com/asset/?id=14657802706&assetName=YM","https://assetgame.roblox.com/asset/?id=14682890267&assetName=YM %281%29","")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "GIVE" then
-		show("https://assetgame.roblox.com/asset/?id=14657804485&assetName=GIVE","https://assetgame.roblox.com/asset/?id=14682891785&assetName=GIVE %281%29","https://assetgame.roblox.com/asset/?id=14657903604&assetName=MTB %281%29")
+		show("https://assetgame.roblox.com/asset/?id=14657804485&assetName=GIVE","https://assetgame.roblox.com/asset/?id=14682891785&assetName=GIVE %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "ASIA" then
 		show("https://assetgame.roblox.com/asset/?id=14657805483&assetName=ASIA","https://assetgame.roblox.com/asset/?id=14682892834&assetName=ASIA %281%29","")
