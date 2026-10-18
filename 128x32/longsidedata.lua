@@ -83,7 +83,7 @@ while wait() do
 		wait(4)
 		show("rbxassetid://126902311497199","rbxassetid://117192053036379","rbxassetid://95162568854311")
 		wait(4)
-		show("rbxassetid://97281713538253","rbxassetid://110790551866840","rbxassetid://95162568854311")
+		show("rbxassetid://97281713538253","rbxassetid://100973070094152","rbxassetid://95162568854311")
 		wait(4)
 		
 	elseif script.Parent.Model.Rt.R.Num.Text == "94XZ" then
@@ -112,7 +112,6 @@ while wait() do
 		wait(4)
 		show("rbxassetid://92481988299685","rbxassetid://80717660724973","rbxassetid://136920510013302")
 		wait(4)
-		
 		
 		
 		
