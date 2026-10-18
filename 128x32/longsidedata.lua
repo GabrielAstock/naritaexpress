@@ -93,7 +93,7 @@ while wait() do
 		wait(4)
 		show("rbxassetid://103970679211201","rbxassetid://72417202767823","rbxassetid://95162568854311")
 		wait(4)
-		show("rbxassetid://73086823434178","rbxassetid://109029029627882","rbxassetid://95162568854311")
+		show("rbxassetid://126247935966582","rbxassetid://109029029627882","rbxassetid://95162568854311")
 		wait(4)
 		
 		
