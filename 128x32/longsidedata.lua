@@ -93,8 +93,8 @@ while wait() do
 		wait(4)
 		show("rbxassetid://103970679211201","rbxassetid://72417202767823","rbxassetid://95162568854311")
 		wait(4)
-		show("rbxassetid://110790551866840","rbxassetid://109029029627882","rbxassetid://95162568854311")
-		wait(4) -- swap front to via western market, 73086823434178 unable to render
+		show("rbxassetid://73086823434178","rbxassetid://109029029627882","rbxassetid://95162568854311")
+		wait(4)
 		
 		
 	elseif script.Parent.Model.Rt.R.Num.Text == "N94Y" then
