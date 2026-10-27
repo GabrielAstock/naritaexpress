@@ -1,4 +1,4 @@
---[ MTB HANOVER DISPLAY DATA]
+--[ NEXT HANOVER DISPLAY DATA]
 
 function show(front,sideL,side)
 	script.Parent.Front.L.Route.Image = front
@@ -200,10 +200,19 @@ while wait() do
 		wait(3)
 		show("rbxassetid://130503852356402","rbxassetid://76938134851583","rbxassetid://99484066309871")
 		wait(3)
-		
-		
-		
 
+	elseif script.Parent.Model.Rt.R.Num.Text == "JB" then
+		show("rbxassetid://114736625397603","rbxassetid://133889546897041","rbxassetid://122739248914875")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "KQ" then
+		show("rbxassetid://115970468804629","rbxassetid://102823519777051","rbxassetid://122739248914875")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "XMAS" then
+		show("rbxassetid://130224288751468","rbxassetid://132971516586660","rbxassetid://102326673073314")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "ENGLAND" then
+		show("rbxassetid://119174845595766","rbxassetid://129292858788285","rbxassetid://86728013662644")
+		
 	else show("rbxassetid://87290154770131","rbxassetid://91635280603257","rbxassetid://97019838659675")
 	
 		--script.Parent.Back.R.Num.Text = script.Parent.Model.Rt.R.Num.Text
