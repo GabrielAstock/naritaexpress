@@ -1,10 +1,10 @@
 -- ==========================================
 -- VIP SERVER CHECK
 -- ==========================================
-if game.PrivateServerId ~= "" then
-	script:Destroy()
-	return
-end
+--if game.PrivateServerId ~= "" then
+	--script:Destroy()
+	--return
+--end
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
