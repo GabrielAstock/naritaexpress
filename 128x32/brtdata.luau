@@ -195,7 +195,7 @@ while wait() do
 		show("rbxassetid://114736625397603","rbxassetid://133889546897041","rbxassetid://122739248914875")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "KQ" then
-		show("rbxassetid://115970468804629","rbxassetid://102823519777051","rbxassetid://122739248914875")
+		show("rbxassetid://115970468804629","rbxassetid://102823519777051","")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "XMAS" then
 		show("rbxassetid://130224288751468","rbxassetid://132971516586660","rbxassetid://102326673073314")
