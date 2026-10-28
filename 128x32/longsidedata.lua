@@ -213,6 +213,9 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "ENGLAND" then
 		show("rbxassetid://119174845595766","rbxassetid://129292858788285","rbxassetid://86728013662644")
 		
+	elseif script.Parent.Model.Rt.R.Num.Text == "FRIPSIDE" then
+		show("rbxassetid://132930764125283","rbxassetid://87659423680192","")
+		
 	else show("rbxassetid://87290154770131","rbxassetid://91635280603257","rbxassetid://97019838659675")
 	
 		--script.Parent.Back.R.Num.Text = script.Parent.Model.Rt.R.Num.Text
