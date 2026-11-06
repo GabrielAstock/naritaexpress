@@ -35,7 +35,19 @@ while wait() do
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "NEXT" then
 		show("rbxassetid://87290154770131","rbxassetid://91635280603257","rbxassetid://97019838659675")
-
+		
+	elseif script.Parent.Model.Rt.R.Num.Text == "PR1" then
+		show("rbxassetid://87290154770131","rbxassetid://91635280603257","rbxassetid://97019838659675")
+		wait(4)
+		show("rbxassetid://89082336936210","rbxassetid://92547612218438","rbxassetid://80133103301555")
+		wait(4)
+		
+	elseif script.Parent.Model.Rt.R.Num.Text == "PR2" then
+		show("rbxassetid://87290154770131","rbxassetid://91635280603257","rbxassetid://97019838659675")
+		wait(4)
+		show("rbxassetid://86071193172641","rbxassetid://136443815665766","rbxassetid://84249404700441")
+		wait(4)
+		
 		--Depots
 
 		--Hanwick Data
@@ -201,7 +213,7 @@ while wait() do
 		show("https://assetgame.roblox.com/asset/?id=14657806677&assetName=701","https://assetgame.roblox.com/asset/?id=14682893733&assetName=701 %281%29","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "702" then
-		show("https://assetgame.roblox.com/asset/?id=14657806335&assetName=702","https://assetgame.roblox.com/asset/?id=14683434506&assetName=702 - ï°êª","rbxassetid://97019838659675")
+		show("https://assetgame.roblox.com/asset/?id=14657806335&assetName=702","https://assetgame.roblox.com/asset/?id=14683434506&assetName=702 - ??","rbxassetid://97019838659675")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "703" then
 		show("https://assetgame.roblox.com/asset/?id=14657806011&assetName=703","https://assetgame.roblox.com/asset/?id=14682893245&assetName=703 %281%29","rbxassetid://97019838659675")
