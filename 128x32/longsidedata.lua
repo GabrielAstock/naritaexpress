@@ -48,6 +48,12 @@ while wait() do
 		show("rbxassetid://86071193172641","rbxassetid://136443815665766","rbxassetid://84249404700441")
 		wait(4)
 		
+	elseif script.Parent.Model.Rt.R.Num.Text == "PR3" then
+		show("rbxassetid://87290154770131","rbxassetid://91635280603257","rbxassetid://97019838659675")
+		wait(4)
+		show("rbxassetid://113996691866791","rbxassetid://77370276039468","rbxassetid://136063459198789")
+		wait(4)
+		
 		--Depots
 
 		--Hanwick Data
@@ -162,6 +168,13 @@ while wait() do
 		wait(4)
 		show("rbxassetid://101575511879821","rbxassetid://128712843007195","rbxassetid://99671917399807")
 		wait(4)
+		
+	elseif script.Parent.Model.Rt.R.Num.Text == "96EY" then
+		show("rbxassetid://98034982016596","rbxassetid://106075491760690","rbxassetid://107303586883581")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "96EZ" then
+		show("rbxassetid://119510781886800","rbxassetid://94622739200497","rbxassetid://107303586883581")
+
 		
 	elseif script.Parent.Model.Rt.R.Num.Text == "96XY" then
 		show("rbxassetid://114624625514459","rbxassetid://92376546757994","rbxassetid://114505461311651")
