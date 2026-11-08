@@ -79,6 +79,8 @@ while wait() do
 		wait(4)
 		
 	elseif script.Parent.Model.Rt.R.Num.Text == "PR8" then
+		show("rbxassetid://87290154770131","rbxassetid://91635280603257","rbxassetid://97019838659675")
+		wait(4)
 		show("rbxassetid://93686717149365","rbxassetid://98058704818801","rbxassetid://105504832486606")
 		wait(4)
 		
