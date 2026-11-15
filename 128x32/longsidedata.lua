@@ -570,10 +570,10 @@ while wait() do
 		wait(3)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "JB" then
-		show("rbxassetid://114736625397603","rbxassetid://133889546897041","")
+		show("rbxassetid://114736625397603","rbxassetid://133889546897041","rbxassetid://122739248914875")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "KQ" then
-		show("rbxassetid://115970468804629","rbxassetid://102823519777051","rbxassetid://122739248914875")
+		show("rbxassetid://115970468804629","rbxassetid://102823519777051","")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "TSUKUBA" then
 		show("rbxassetid://100063830444570","rbxassetid://125766369956632","rbxassetid://86372581270389")
