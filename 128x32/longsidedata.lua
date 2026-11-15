@@ -129,7 +129,7 @@ while wait() do
 		--wait(4)
 
 	--elseif script.Parent.Model.Rt.R.Num.Text == "91AZ" then
-	--show("rbxassetid://106360257514914","rbxassetid://104382669981343","rbxassetid://120953821333385")
+		--show("rbxassetid://106360257514914","rbxassetid://104382669981343","rbxassetid://120953821333385")
 		--wait(4)
 		--show("rbxassetid://129496107501435","rbxassetid://106063893190380","rbxassetid://120953821333385")
 		--wait(4)
@@ -162,6 +162,7 @@ while wait() do
 		--show("rbxassetid://120260168003574","rbxassetid://72327119863556","rbxassetid://137553543977091")
 		--wait(4)
 		--show("rbxassetid://118916168251487","rbxassetid://77892565644706","rbxassetid://137553543977091")
+		--wait(4)
 
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "93Y" then
@@ -310,96 +311,96 @@ while wait() do
 		show("rbxassetid://102343607542016","rbxassetid://85483016489392","rbxassetid://123582078995412")
 		wait(4)
 		
-	--elseif script.Parent.Model.Rt.R.Num.Text == "98Y" then
-		--show("rbxassetid://91047284971335","rbxassetid://100176393626296","rbxassetid://78041236579750")
-		--wait(4)
+	elseif script.Parent.Model.Rt.R.Num.Text == "98Y" then
+		show("rbxassetid://91047284971335","rbxassetid://100176393626296","rbxassetid://78041236579750")
+		wait(4)
 		
-	--elseif script.Parent.Model.Rt.R.Num.Text == "98Z" then
-		--show("rbxassetid://129406780556623","rbxassetid://134395628717316","rbxassetid://78041236579750")
-		--wait(4)
+	elseif script.Parent.Model.Rt.R.Num.Text == "98Z" then
+		show("rbxassetid://129406780556623","rbxassetid://134395628717316","rbxassetid://78041236579750")
+		wait(4)
 		
-	--elseif script.Parent.Model.Rt.R.Num.Text == "98AY" then
-		--show("rbxassetid://92510737140305","rbxassetid://120919831390871","rbxassetid://140262277801834")
-		--wait(4)
-		--show("rbxassetid://110991917033380","rbxassetid://103131814474975","rbxassetid://140262277801834")
-		--wait(4)
-		--show("rbxassetid://73998403992906","rbxassetid://123815217859283","rbxassetid://140262277801834")
-		--wait(4)
+	elseif script.Parent.Model.Rt.R.Num.Text == "98AY" then
+		show("rbxassetid://92510737140305","rbxassetid://120919831390871","rbxassetid://140262277801834")
+		wait(4)
+		show("rbxassetid://110991917033380","rbxassetid://103131814474975","rbxassetid://140262277801834")
+		wait(4)
+		show("rbxassetid://73998403992906","rbxassetid://123815217859283","rbxassetid://140262277801834")
+		wait(4)
 		
-	--elseif script.Parent.Model.Rt.R.Num.Text == "98AZ" then
-		--show("rbxassetid://102644064163997","rbxassetid://111131718499640","rbxassetid://140262277801834")
-		--wait(4)
-		--show("rbxassetid://110991917033380","rbxassetid://103131814474975","rbxassetid://140262277801834")
-		--wait(4)
-		--show("rbxassetid://73998403992906","rbxassetid://123815217859283","rbxassetid://140262277801834")
-		--wait(4)
+	elseif script.Parent.Model.Rt.R.Num.Text == "98AZ" then
+		show("rbxassetid://102644064163997","rbxassetid://111131718499640","rbxassetid://140262277801834")
+		wait(4)
+		show("rbxassetid://110991917033380","rbxassetid://103131814474975","rbxassetid://140262277801834")
+		wait(4)
+		show("rbxassetid://73998403992906","rbxassetid://123815217859283","rbxassetid://140262277801834")
+		wait(4)
 		
-	--elseif script.Parent.Model.Rt.R.Num.Text == "98BY" then
-		--show("rbxassetid://82555875625618","rbxassetid://111895210511498","rbxassetid://84225350001993")
-		--wait(4)
+	elseif script.Parent.Model.Rt.R.Num.Text == "98BY" then
+		show("rbxassetid://82555875625618","rbxassetid://111895210511498","rbxassetid://84225350001993")
+		wait(4)
 		
-	--elseif script.Parent.Model.Rt.R.Num.Text == "98BZ" then
-		--show("rbxassetid://73117904615995","rbxassetid://140735066924044","rbxassetid://84225350001993")
-		--wait(4)
+	elseif script.Parent.Model.Rt.R.Num.Text == "98BZ" then
+		show("rbxassetid://73117904615995","rbxassetid://140735066924044","rbxassetid://84225350001993")
+		wait(4)
 
-	--elseif script.Parent.Model.Rt.R.Num.Text == "98DY" then
-		--	show("rbxassetid://113561905340621","rbxassetid://77239647845758","rbxassetid://111793609414249")
-		--wait(4)
-		--show("rbxassetid://87927242031482","rbxassetid://132780242485988","rbxassetid://111793609414249")
-		--wait(4)
-		--show("rbxassetid://137659967320783","rbxassetid://106613003043959","rbxassetid://111793609414249")
-		--wait(4)
+	elseif script.Parent.Model.Rt.R.Num.Text == "98DY" then
+		show("rbxassetid://113561905340621","rbxassetid://77239647845758","rbxassetid://111793609414249")
+		wait(4)
+		show("rbxassetid://87927242031482","rbxassetid://132780242485988","rbxassetid://111793609414249")
+		wait(4)
+		show("rbxassetid://137659967320783","rbxassetid://106613003043959","rbxassetid://111793609414249")
+		wait(4)
 
-	--elseif script.Parent.Model.Rt.R.Num.Text == "98DZ" then
-		--show("rbxassetid://107556480156452","rbxassetid://111818056158100","rbxassetid://118524549772351")
-		--wait(4)
-		--show("rbxassetid://100935142349804","rbxassetid://85889324768388","rbxassetid://118524549772351")
-		--wait(4)
-		--	show("rbxassetid://87927242031482","rbxassetid://132780242485988","rbxassetid://111793609414249")
-		--	wait(4)
-		--	show("rbxassetid://137659967320783","rbxassetid://106613003043959","rbxassetid://111793609414249")
-		--	wait(4)
+	elseif script.Parent.Model.Rt.R.Num.Text == "98DZ" then
+		show("rbxassetid://107556480156452","rbxassetid://111818056158100","rbxassetid://118524549772351")
+		wait(4)
+		show("rbxassetid://100935142349804","rbxassetid://85889324768388","rbxassetid://118524549772351")
+		wait(4)
+		show("rbxassetid://87927242031482","rbxassetid://132780242485988","rbxassetid://111793609414249")
+		wait(4)
+		show("rbxassetid://137659967320783","rbxassetid://106613003043959","rbxassetid://111793609414249")
+		wait(4)
 		
-		--elseif script.Parent.Model.Rt.R.Num.Text == "98D" then
-		--show("rbxassetid://116961853021208","rbxassetid://80352273366366","rbxassetid://118933290783428")
-		--wait(4)
-		--show("rbxassetid://70932201795940","rbxassetid://133139085613777","rbxassetid://118933290783428")
-		--wait(4)
-		--show("rbxassetid://130744792562595","rbxassetid://135533745811112","rbxassetid://118933290783428")
-		--wait(4)
+	elseif script.Parent.Model.Rt.R.Num.Text == "98D" then
+		show("rbxassetid://116961853021208","rbxassetid://80352273366366","rbxassetid://118933290783428")
+		wait(4)
+		show("rbxassetid://70932201795940","rbxassetid://133139085613777","rbxassetid://118933290783428")
+		wait(4)
+		show("rbxassetid://130744792562595","rbxassetid://135533745811112","rbxassetid://118933290783428")
+		wait(4)
 		
 	
-	--elseif script.Parent.Model.Rt.R.Num.Text == "98FY" then
-		--	show("rbxassetid://139460783652853","rbxassetid://111203809423609","rbxassetid://118109308403420")
-		--	wait(4)
+	elseif script.Parent.Model.Rt.R.Num.Text == "98FY" then
+		show("rbxassetid://139460783652853","rbxassetid://111203809423609","rbxassetid://118109308403420")
+		wait(4)
 
-	--elseif script.Parent.Model.Rt.R.Num.Text == "98FZ" then
-		--show("rbxassetid://85572063960512","rbxassetid://113972686490894","rbxassetid://118109308403420")
-		--wait(4)
+	elseif script.Parent.Model.Rt.R.Num.Text == "98FZ" then
+		show("rbxassetid://85572063960512","rbxassetid://113972686490894","rbxassetid://118109308403420")
+		wait(4)
 		
-	--elseif script.Parent.Model.Rt.R.Num.Text == "98XY" then
-		--show("rbxassetid://107194848959763","rbxassetid://84052834404461","rbxassetid://99020963808441")
-		--wait(4)
-		--show("rbxassetid://137002822120711","rbxassetid://88748529654658","rbxassetid://99020963808441")
-		--wait(4)
-		--show("rbxassetid://136289382336843","rbxassetid://133041843373393","rbxassetid://99020963808441")
-		--wait(4)	
+	elseif script.Parent.Model.Rt.R.Num.Text == "98XY" then
+		show("rbxassetid://107194848959763","rbxassetid://84052834404461","rbxassetid://99020963808441")
+		wait(4)
+		show("rbxassetid://137002822120711","rbxassetid://88748529654658","rbxassetid://99020963808441")
+		wait(4)
+		show("rbxassetid://136289382336843","rbxassetid://133041843373393","rbxassetid://99020963808441")
+		wait(4)	
 		
-	--elseif script.Parent.Model.Rt.R.Num.Text == "98XZ" then
-		--show("rbxassetid://81860584698902","rbxassetid://72438028992203","rbxassetid://99020963808441")
-		--wait(4)
-		--show("rbxassetid://137002822120711","rbxassetid://88748529654658","rbxassetid://99020963808441")
-		--wait(4)
-		--show("rbxassetid://136289382336843","rbxassetid://133041843373393","rbxassetid://99020963808441")
-		--wait(4)	
+	elseif script.Parent.Model.Rt.R.Num.Text == "98XZ" then
+		show("rbxassetid://81860584698902","rbxassetid://72438028992203","rbxassetid://99020963808441")
+		wait(4)
+		show("rbxassetid://137002822120711","rbxassetid://88748529654658","rbxassetid://99020963808441")
+		wait(4)
+		show("rbxassetid://136289382336843","rbxassetid://133041843373393","rbxassetid://99020963808441")
+		wait(4)	
 
-	--elseif script.Parent.Model.Rt.R.Num.Text == "N98Y" then
-		--show("rbxassetid://100399542838424","rbxassetid://86644577858498","rbxassetid://81555574010191")
-		--wait(4)
+	elseif script.Parent.Model.Rt.R.Num.Text == "N98Y" then
+		show("rbxassetid://100399542838424","rbxassetid://86644577858498","rbxassetid://81555574010191")
+		wait(4)
 		
-	--elseif script.Parent.Model.Rt.R.Num.Text == "N98Z" then
-		--show("rbxassetid://125371733345361","rbxassetid://114211079547723","rbxassetid://81555574010191")
-		--wait(4)
+	elseif script.Parent.Model.Rt.R.Num.Text == "N98Z" then
+		show("rbxassetid://125371733345361","rbxassetid://114211079547723","rbxassetid://81555574010191")
+		wait(4)
 		
 		
 		
