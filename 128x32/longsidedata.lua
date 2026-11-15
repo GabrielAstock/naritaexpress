@@ -84,7 +84,17 @@ while wait() do
 		show("rbxassetid://93686717149365","rbxassetid://98058704818801","rbxassetid://105504832486606")
 		wait(4)
 		
+	elseif script.Parent.Model.Rt.R.Num.Text == "PR9" then
+		show("rbxassetid://87290154770131","rbxassetid://91635280603257","rbxassetid://97019838659675")
+		wait(4)
+		show("rbxassetid://133622360343223","rbxassetid://76300134033019","rbxassetid://129782297410539")
+		wait(4)
 		
+	elseif script.Parent.Model.Rt.R.Num.Text == "PR10" then
+		show("rbxassetid://87290154770131","rbxassetid://91635280603257","rbxassetid://97019838659675")
+		wait(4)
+		show("rbxassetid://118667283734127","rbxassetid://81001744813750","rbxassetid://119721757552415")
+		wait(4)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "SOS" then
 		show("rbxassetid://75869920258513","rbxassetid://105382749029318","rbxassetid://128637307654680")
