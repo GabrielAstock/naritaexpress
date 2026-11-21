@@ -187,19 +187,16 @@ while wait() do
 		show("rbxassetid://80389054680073","rbxassetid://100904023751559","rbxassetid://83256804305554")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "93AY" then
-		show("rbxassetid://114618718514494","rbxassetid://114618718514494","rbxassetid://86375442700030")
+		show("rbxassetid://79721071701318","rbxassetid://114618718514494","rbxassetid://86375442700030")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "93AZ" then
-		show("rbxassetid://115065688476123","rbxassetid://115065688476123","rbxassetid://86375442700030")
-		wait(4)
-		show("rbxassetid://115065688476123","rbxassetid://115065688476123","rbxassetid://86375442700030")
-		wait(4)
+		show("rbxassetid://84457404979395","rbxassetid://115065688476123","rbxassetid://86375442700030")
 
 		--elseif script.Parent.Model.Rt.R.Num.Text == "93CY" then
-		--show("rbxassetid://93597822530059","rbxassetid://93597822530059","rbxassetid://125902906789033")
+		--show("rbxassetid://124943720647448","rbxassetid://93597822530059","rbxassetid://125902906789033")
 
 		--elseif script.Parent.Model.Rt.R.Num.Text == "93CZ" then
-		--show("rbxassetid://115025674457667","rbxassetid://115025674457667","rbxassetid://125902906789033")
+		--show("rbxassetid://129871512660488","rbxassetid://115025674457667","rbxassetid://125902906789033")
 
 		--elseif script.Parent.Model.Rt.R.Num.Text == "N93Y" then
 		--show("rbxassetid://86713775945234","rbxassetid://86713775945234","rbxassetid://139765968074834")
