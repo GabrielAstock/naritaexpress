@@ -373,7 +373,7 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "FRIPSIDE" then
 		show("rbxassetid://132930764125283","rbxassetid://87659423680192","")
 
-	else show("rbxassetid://93858609860065","rbxassetid://125946088657262","rbxassetid://97019838659675")
+	else show("rbxassetid://91460298424821","rbxassetid://73747145040858","rbxassetid://118524549772351")
 	
 		--script.Parent.Back.R.Num.Text = script.Parent.Model.Rt.R.Num.Text
 		--script.Parent.Front.R.Num.Text = script.Parent.Model.Rt.R.Num.Text
