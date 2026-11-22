@@ -616,7 +616,7 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "FRIPSIDE" then
 		show("rbxassetid://132930764125283","rbxassetid://87659423680192","")
 
-	else show("")
+	else show("","","")
         script.Parent.Front.R.Num.Text = script.Parent.Model.Rt.R.Num.Text
         script.Parent.Rear.R.Num.Text = script.Parent.Model.Rt.R.Num.Text
         script.Parent.Side.R.Num.Text = script.Parent.Model.Rt.R.Num.Text
