@@ -1,0 +1,30 @@
+{
+  "routeList": ["", "TR", "NR720", "NR911", "NR912", "NR913", "302R", "605", "606", "B2", "B2S", "A03", "PR1", "608", "N608", "608R", "N91A", "N930", "933", "938", "B3"],
+  "routeTables": [
+    {
+      "routes": ["NR911", "NR912", "NR913", "302R", "605", "606", "B2", "B2S", "A03"],
+      "text": ["(GURA)", "古拉巴士", "GURABUS"]
+    },
+    {
+      "routes": ["PR1", "608", "N608", "608R", "N91A", "N930", "933", "938", "B3"],
+      "text": ["(KDBS)", "新橄運巴士", "KAYDEE BUSES"]
+    }
+  ],
+  "routesData": [
+    { "rt": "", "chi": "", "eng": "", "dir": false, "term": 1, "total": 1, "fare": "0.0" },
+    { "rt": "", "chi": "", "eng": "", "dir": true, "term": 1, "total": 1, "fare": "0.0" },
+    { "rt": "NR720", "chi": "深山邨", "eng": "Sham Shan Estate", "dir": false, "term": 1, "total": 1, "fare": "6.0" },
+    { "rt": "NR720", "chi": "深山站", "eng": "Sham Shan Station", "dir": true, "term": 1, "total": 1, "fare": "5.0" },
+    { "rt": "PR1", "chi": "氯氣灣", "eng": "Chlorine Village", "dir": false, "term": 1, "total": 1, "fare": "3.0" },
+    { "rt": "PR1", "chi": "硫酸灣泊車轉乘站", "eng": "Sulphur Bay Park and Ride", "dir": true, "term": 1, "total": 1, "fare": "3.0" },
+    { "rt": "A03", "chi": "學生服務：壆錦秋小學", "eng": "Student Service:DOO KAM CHAU PRIMARY SCHOOL", "dir": false, "term": 1, "total": 1, "fare": "0.0" },
+    { "rt": "A03", "chi": "學生服務：恆馳", "eng": "Student Service:HANG CHI", "dir": true, "term": 1, "total": 1, "fare": "0.0" },
+    { "rt": "TR", "chi": "測試路線", "eng": "TEST", "dir": false, "term": 1, "total": 6, "fare": "6.9" },
+    { "rt": "TR", "chi": "測試路線", "eng": "TEST", "dir": false, "term": 2, "total": 6, "fare": "5.8" },
+    { "rt": "TR", "chi": "測試路線", "eng": "TEST", "dir": false, "term": 3, "total": 6, "fare": "4.7" },
+    { "rt": "TR", "chi": "測試路線", "eng": "TEST", "dir": false, "term": 4, "total": 6, "fare": "3.6" },
+    { "rt": "TR", "chi": "測試路線", "eng": "TEST", "dir": false, "term": 5, "total": 6, "fare": "2.5" },
+    { "rt": "TR", "chi": "測試路線", "eng": "TEST", "dir": false, "term": 6, "total": 6, "fare": "1.4" },
+    { "rt": "TR", "chi": "測試路線", "eng": "TEST", "dir": true, "term": 1, "total": 1, "fare": "6.4" }
+  ]
+}
