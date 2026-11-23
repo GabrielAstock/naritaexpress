@@ -58,7 +58,7 @@
       "dir": false,
       "term": 1,
       "total": 1,
-      "fare": "6.0"
+      "fare": "4.3"
     },
     {
       "rt": "93",
@@ -67,7 +67,7 @@
       "dir": true,
       "term": 1,
       "total": 1,
-      "fare": "5.0"
+      "fare": "4.3"
     },
     {
       "rt": "93A",
@@ -76,7 +76,7 @@
       "dir": false,
       "term": 1,
       "total": 1,
-      "fare": "3.0"
+      "fare": "4.3"
     },
     {
       "rt": "93A",
@@ -85,7 +85,7 @@
       "dir": true,
       "term": 1,
       "total": 1,
-      "fare": "3.0"
+      "fare": "4.3"
     },
     {
       "rt": "94",
@@ -94,7 +94,7 @@
       "dir": false,
       "term": 1,
       "total": 1,
-      "fare": "0.0"
+      "fare": "4.3"
     },
     {
       "rt": "94",
@@ -112,7 +112,7 @@
       "dir": false,
       "term": 1,
       "total": 6,
-      "fare": "6.9"
+      "fare": "4.3"
     },
     {
       "rt": "94C",
@@ -148,7 +148,7 @@
       "dir": false,
       "term": 5,
       "total": 6,
-      "fare": "2.5"
+      "fare": "12.4"
     },
     {
       "rt": "96",
@@ -157,7 +157,7 @@
       "dir": false,
       "term": 6,
       "total": 6,
-      "fare": "1.4"
+      "fare": "12.4"
     },
     {
       "rt": "96A",
@@ -166,7 +166,7 @@
       "dir": true,
       "term": 1,
       "total": 1,
-      "fare": "6.4"
+      "fare": "14.0"
     },
     {
       "rt": "96A",
@@ -175,7 +175,7 @@
       "dir": true,
       "term": 1,
       "total": 1,
-      "fare": "6.4"
+      "fare": "14.0"
     }
   ]
 }
