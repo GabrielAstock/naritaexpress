@@ -76,18 +76,8 @@
       "eng": "Central West Hospital",
       "dir": false,
       "term": 1,
-      "total": 1,
-      "fare": "4.3"
-    },
-    {
-      "rt": "93A",
-      "chi": "科創城二期",
-      "eng": "Innocity Phrase 2",
-      "dir": true,
-      "term": 1,
       "total": 2,
-      "fare": "4.3",
-      "fare": "2.7"
+      "fare": "4.3"
     },
       "rt": "93A",
       "chi": "科創城二期",
@@ -96,6 +86,15 @@
       "term": 2,
       "total": 2,
       "fare": "2.7",
+    },
+    {
+      "rt": "93A",
+      "chi": "科創城二期",
+      "eng": "Innocity Phrase 2",
+      "dir": true,
+      "term": 1,
+      "total": 1,
+      "fare": "4.3",
     },
     {
       "rt": "94",
