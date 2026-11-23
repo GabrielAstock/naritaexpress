@@ -287,6 +287,60 @@
       "eng": "International Ferry Terminal",
       "dir": false,
       "term": 1,
+      "total": 3,
+      "fare": "14.0"
+    },
+{
+      "rt": "96B",
+      "chi": "外港碼頭",
+      "eng": "International Ferry Terminal",
+      "dir": false,
+      "term": 2,
+      "total": 3,
+      "fare": "5.0"
+    },
+{
+      "rt": "96B",
+      "chi": "外港碼頭",
+      "eng": "International Ferry Terminal",
+      "dir": false,
+      "term": 3,
+      "total": 3,
+      "fare": "2.7"
+    },
+{
+      "rt": "96E",
+      "chi": "渡船角碼頭",
+      "eng": "Ferry Point Pier",
+      "dir": false,
+      "term": 1,
+      "total": 2,
+      "fare": "14.0"
+    },
+{
+      "rt": "96E",
+      "chi": "渡船角碼頭",
+      "eng": "Ferry Point Pier",
+      "dir": false,
+      "term": 2,
+      "total": 2,
+      "fare": "5.0"
+    },
+{
+      "rt": "96E",
+      "chi": "外港碼頭",
+      "eng": "International Ferry Terminal",
+      "dir": true,
+      "term": 1,
+      "total": 2,
+      "fare": "14.0"
+    },
+{
+      "rt": "96E",
+      "chi": "外港碼頭",
+      "eng": "International Ferry Terminal",
+      "dir": true,
+      "term": 2,
       "total": 2,
       "fare": "5.0"
     },
