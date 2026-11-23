@@ -79,13 +79,14 @@
       "total": 2,
       "fare": "4.3"
     },
+    {
       "rt": "93A",
       "chi": "科創城二期",
       "eng": "Innocity Phrase 2",
       "dir": true,
       "term": 2,
       "total": 2,
-      "fare": "2.7",
+      "fare": "2.7"
     },
     {
       "rt": "93A",
@@ -94,7 +95,7 @@
       "dir": true,
       "term": 1,
       "total": 1,
-      "fare": "4.3",
+      "fare": "4.3"
     },
     {
       "rt": "94",
@@ -159,6 +160,7 @@
       "total": 2,
       "fare": "12.4"
     },
+{
       "rt": "96",
       "chi": "翔宏西城點",
       "eng": "Cheung Wang West Hub",
@@ -176,6 +178,7 @@
       "total": 2,
       "fare": "12.4"
     },
+{
       "rt": "96",
       "chi": "外港碼頭",
       "eng": "International Ferry Terminal",
@@ -193,6 +196,7 @@
       "total": 2,
       "fare": "14.0"
     },
+{
       "rt": "96A",
       "chi": "中環西醫院",
       "eng": "Central West Hospital",
@@ -219,6 +223,7 @@
       "total": 2,
       "fare": "5.0"
     },
+{
       "rt": "96B",
       "chi": "船塢里",
       "eng": "Shipyard Lane",
@@ -227,6 +232,7 @@
       "total": 2,
       "fare": "14.0"
     },
+    {
       "rt": "96B",
       "chi": "船塢里",
       "eng": "Shipyard Lane",
@@ -235,6 +241,7 @@
       "total": 2,
       "fare": "5.0"
     },
+{
       "rt": "96B",
       "chi": "船塢里",
       "eng": "Shipyard Lane",
@@ -243,6 +250,7 @@
       "total": 2,
       "fare": "14.0"
     },
+{
       "rt": "96B",
       "chi": "外港碼頭",
       "eng": "International Ferry Terminal",
