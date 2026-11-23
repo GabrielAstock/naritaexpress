@@ -260,6 +260,60 @@
       "fare": "5.0"
     },
 {
+      "rt": "98",
+      "chi": "文華邨",
+      "eng": "Man Wah Estate",
+      "dir": true,
+      "term": 1,
+      "total": 2,
+      "fare": "6.8"
+    },
+{
+      "rt": "98",
+      "chi": "文華邨",
+      "eng": "Man Wah Estate",
+      "dir": true,
+      "term": 2,
+      "total": 2,
+      "fare": "5.0"
+    },
+{
+      "rt": "98",
+      "chi": "中環西港城",
+      "eng": "Central Western Market",
+      "dir": false,
+      "term": 1,
+      "total": 2,
+      "fare": "6.8"
+    },
+{
+      "rt": "98",
+      "chi": "中環西港城",
+      "eng": "Central Western Market",
+      "dir": false,
+      "term": 2,
+      "total": 2,
+      "fare": "5.0"
+    },
+{
+      "rt": "98X",
+      "chi": "澄謐灣",
+      "eng": "Tranquillity Bay",
+      "dir": true,
+      "term": 1,
+      "total": 2,
+      "fare": "8.4"
+    },
+{
+      "rt": "98X",
+      "chi": "澄謐灣",
+      "eng": "Tranquillity Bay",
+      "dir": true,
+      "term": 2,
+      "total": 2,
+      "fare": "5.0"
+    },
+{
       "rt": "98X",
       "chi": "西港城",
       "eng": "Western Market",
