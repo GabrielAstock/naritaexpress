@@ -10,7 +10,8 @@
     "94X",
     "96",
     "96A",
-    "96B"
+    "96B",
+    "98X"
   ],
   "routeTables": [
     {
@@ -177,6 +178,32 @@
       "term": 1,
       "total": 1,
       "fare": "14.0"
-    }
+{
+      "rt": "98X",
+      "chi": "",
+      "eng": "Section to Wah Hing House, Man Wah Estate",
+      "dir": false,
+      "term": 1,
+      "total": 3,
+      "fare": "8.4"
+    },
+{
+      "rt": "98X",
+      "chi": "",
+      "eng": "Section to Southern District Highway Bus Interchange",
+      "dir": false,
+      "term": 2,
+      "total": 3,
+      "fare": "6.8"
+    },
+{
+      "rt": "98X",
+      "chi": "",
+      "eng": "Section to Western Market",
+      "dir": false,
+      "term": 3,
+      "total": 3,
+      "fare": "5.8"
+    },
   ]
 }
