@@ -261,8 +261,8 @@
     },
 {
       "rt": "98X",
-      "chi": "外港碼頭",
-      "eng": "International Ferry Terminal",
+      "chi": "西港城",
+      "eng": "Western Market",
       "dir": false,
       "term": 1,
       "total": 3,
@@ -270,8 +270,8 @@
     },
 {
       "rt": "98X",
-      "chi": "恆域站",
-      "eng": "Hanwick TRR",
+      "chi": "西港城",
+      "eng": "Western Market",
       "dir": false,
       "term": 2,
       "total": 3,
@@ -279,8 +279,8 @@
     },
 {
       "rt": "98X",
-      "chi": "恆域站",
-      "eng": "Hanwick TRR",
+      "chi": "西港城",
+      "eng": "Western Market",
       "dir": false,
       "term": 3,
       "total": 3,
