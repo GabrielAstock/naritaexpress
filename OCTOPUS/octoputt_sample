@@ -85,9 +85,17 @@
       "eng": "Innocity Phrase 2",
       "dir": true,
       "term": 1,
-      "total": 1,
+      "total": 2,
       "fare": "4.3",
       "fare": "2.7"
+    },
+      "rt": "93A",
+      "chi": "科創城二期",
+      "eng": "Innocity Phrase 2",
+      "dir": true,
+      "term": 2,
+      "total": 2,
+      "fare": "2.7",
     },
     {
       "rt": "94",
@@ -141,7 +149,7 @@
       "dir": false,
       "term": 4,
       "total": 6,
-      "fare": "3.6"
+      "fare": "5.8"
     },
     {
       "rt": "96",
@@ -180,8 +188,8 @@
       "fare": "14.0"
 {
       "rt": "98X",
-      "chi": "",
-      "eng": "Section to Wah Hing House, Man Wah Estate",
+      "chi": "恆域站",
+      "eng": "Hanwick TRR",
       "dir": false,
       "term": 1,
       "total": 3,
@@ -189,8 +197,8 @@
     },
 {
       "rt": "98X",
-      "chi": "",
-      "eng": "Section to Southern District Highway Bus Interchange",
+      "chi": "恆域站",
+      "eng": "Hanwick TRR",
       "dir": false,
       "term": 2,
       "total": 3,
@@ -198,8 +206,8 @@
     },
 {
       "rt": "98X",
-      "chi": "",
-      "eng": "Section to Western Market",
+      "chi": "恆域站",
+      "eng": "Hanwick TRR",
       "dir": false,
       "term": 3,
       "total": 3,
