@@ -1,26 +1,172 @@
 {
-  "routeList": ["", "TR", "93", "93A", "93C", "94", "94C", "94X", "96", "96A", "96B"],
+  "routeList": [
+    "",
+    "TR",
+    "93",
+    "93A",
+    "93C",
+    "94",
+    "94C",
+    "94X",
+    "96",
+    "96A",
+    "96B"
+  ],
   "routeTables": [
     {
-      "routes": ["93", "93A", "93C", "94", "94C", "94X", "96", "96A", "96B"],
-      "text": ["(NEX)", "連城交通", "NEXTRANSIT"]
-    },
+      "routes": [
+        "93",
+        "93A",
+        "93C",
+        "94",
+        "94C",
+        "94X",
+        "96",
+        "96A",
+        "96B"
+      ],
+      "text": [
+        "(NEX)",
+        "連城交通",
+        "NEXTRANSIT"
+      ]
+    }
   ],
   "routesData": [
-    { "rt": "", "chi": "", "eng": "", "dir": false, "term": 1, "total": 1, "fare": "0.0" },
-    { "rt": "", "chi": "", "eng": "", "dir": true, "term": 1, "total": 1, "fare": "0.0" },
-    { "rt": "93", "chi": "恆航總部", "eng": "HanwickAir HQ", "dir": false, "term": 1, "total": 1, "fare": "6.0" },
-    { "rt": "93", "chi": "南岸", "eng": "La Terrazza", "dir": true, "term": 1, "total": 1, "fare": "5.0" },
-    { "rt": "93A", "chi": "中環西醫院", "eng": "Central West Hospital", "dir": false, "term": 1, "total": 1, "fare": "3.0" },
-    { "rt": "93A, "chi": "科創城二期", "eng": "Innocity Phrase 2", "dir": true, "term": 1, "total": 1, "fare": "3.0" },
-    { "rt": "94", "chi": "外港碼頭", "eng": "International Ferry Terminal", "dir": false, "term": 1, "total": 1, "fare": "0.0" },
-    { "rt": "94", "chi": "中環西醫院", "eng": "Central West Hospital", "dir": true, "term": 1, "total": 1, "fare": "0.0" },
-    { "rt": "94C", "chi": "聖佐治前地", "eng": "St. George's Square", "dir": false, "term": 1, "total": 6, "fare": "6.9" },
-    { "rt": "94C", "chi": "機場後勤區", "eng": "Airport Logistics Area", "dir": false, "term": 2, "total": 6, "fare": "5.8" },
-    { "rt": "TR", "chi": "測試路線", "eng": "TEST", "dir": false, "term": 3, "total": 6, "fare": "4.7" },
-    { "rt": "TR", "chi": "測試路線", "eng": "TEST", "dir": false, "term": 4, "total": 6, "fare": "3.6" },
-    { "rt": "TR", "chi": "測試路線", "eng": "TEST", "dir": false, "term": 5, "total": 6, "fare": "2.5" },
-    { "rt": "TR", "chi": "測試路線", "eng": "TEST", "dir": false, "term": 6, "total": 6, "fare": "1.4" },
-    { "rt": "TR", "chi": "測試路線", "eng": "TEST", "dir": true, "term": 1, "total": 1, "fare": "6.4" }
+    {
+      "rt": "",
+      "chi": "",
+      "eng": "",
+      "dir": false,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
+    },
+    {
+      "rt": "",
+      "chi": "",
+      "eng": "",
+      "dir": true,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
+    },
+    {
+      "rt": "93",
+      "chi": "恆航總部",
+      "eng": "HanwickAir HQ",
+      "dir": false,
+      "term": 1,
+      "total": 1,
+      "fare": "6.0"
+    },
+    {
+      "rt": "93",
+      "chi": "南岸",
+      "eng": "La Terrazza",
+      "dir": true,
+      "term": 1,
+      "total": 1,
+      "fare": "5.0"
+    },
+    {
+      "rt": "93A",
+      "chi": "中環西醫院",
+      "eng": "Central West Hospital",
+      "dir": false,
+      "term": 1,
+      "total": 1,
+      "fare": "3.0"
+    },
+    {
+      "rt": "93A",
+      "chi": "科創城二期",
+      "eng": "Innocity Phrase 2",
+      "dir": true,
+      "term": 1,
+      "total": 1,
+      "fare": "3.0"
+    },
+    {
+      "rt": "94",
+      "chi": "外港碼頭",
+      "eng": "International Ferry Terminal",
+      "dir": false,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
+    },
+    {
+      "rt": "94",
+      "chi": "中環西醫院",
+      "eng": "Central West Hospital",
+      "dir": true,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
+    },
+    {
+      "rt": "94C",
+      "chi": "聖佐治前地",
+      "eng": "St. George's Square",
+      "dir": false,
+      "term": 1,
+      "total": 6,
+      "fare": "6.9"
+    },
+    {
+      "rt": "94C",
+      "chi": "機場後勤區",
+      "eng": "Airport Logistics Area",
+      "dir": false,
+      "term": 2,
+      "total": 6,
+      "fare": "5.8"
+    },
+    {
+      "rt": "TR",
+      "chi": "測試路線",
+      "eng": "TEST",
+      "dir": false,
+      "term": 3,
+      "total": 6,
+      "fare": "4.7"
+    },
+    {
+      "rt": "TR",
+      "chi": "測試路線",
+      "eng": "TEST",
+      "dir": false,
+      "term": 4,
+      "total": 6,
+      "fare": "3.6"
+    },
+    {
+      "rt": "TR",
+      "chi": "測試路線",
+      "eng": "TEST",
+      "dir": false,
+      "term": 5,
+      "total": 6,
+      "fare": "2.5"
+    },
+    {
+      "rt": "TR",
+      "chi": "測試路線",
+      "eng": "TEST",
+      "dir": false,
+      "term": 6,
+      "total": 6,
+      "fare": "1.4"
+    },
+    {
+      "rt": "TR",
+      "chi": "測試路線",
+      "eng": "TEST",
+      "dir": true,
+      "term": 1,
+      "total": 1,
+      "fare": "6.4"
+    }
   ]
 }
