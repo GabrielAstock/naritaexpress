@@ -120,7 +120,7 @@
       "eng": "St. George's Square",
       "dir": false,
       "term": 1,
-      "total": 6,
+      "total": 1,
       "fare": "4.3"
     },
     {
@@ -128,8 +128,8 @@
       "chi": "機場後勤區",
       "eng": "Airport Logistics Area",
       "dir": false,
-      "term": 2,
-      "total": 6,
+      "term": 1,
+      "total": 1,
       "fare": "5.8"
     },
     {
@@ -146,8 +146,8 @@
       "chi": "北嶺",
       "eng": "Pak Leng",
       "dir": false,
-      "term": 4,
-      "total": 6,
+      "term": 1,
+      "total": 1,
       "fare": "5.8"
     },
     {
@@ -155,18 +155,34 @@
       "chi": "翔宏西城點",
       "eng": "Cheung Wang West Hub",
       "dir": false,
-      "term": 5,
-      "total": 6,
+      "term": 1,
+      "total": 2,
       "fare": "12.4"
+    },
+      "rt": "96",
+      "chi": "翔宏西城點",
+      "eng": "Cheung Wang West Hub",
+      "dir": false,
+      "term": 2,
+      "total": 2,
+      "fare": "5.0"
     },
     {
       "rt": "96",
       "chi": "外港碼頭",
       "eng": "International Ferry Terminal",
       "dir": false,
-      "term": 6,
-      "total": 6,
+      "term": 1,
+      "total": 2,
       "fare": "12.4"
+    },
+      "rt": "96",
+      "chi": "外港碼頭",
+      "eng": "International Ferry Terminal",
+      "dir": false,
+      "term": 2,
+      "total": 2,
+      "fare": "5.0"
     },
     {
       "rt": "96A",
@@ -174,8 +190,16 @@
       "eng": "Central West Hospital",
       "dir": true,
       "term": 1,
-      "total": 1,
+      "total": 2,
       "fare": "14.0"
+    },
+      "rt": "96A",
+      "chi": "中環西醫院",
+      "eng": "Central West Hospital",
+      "dir": true,
+      "term": 2,
+      "total": 2,
+      "fare": "5.0"
     },
     {
       "rt": "96A",
@@ -183,8 +207,18 @@
       "eng": "Hanwick TRR",
       "dir": true,
       "term": 1,
-      "total": 1,
+      "total": 2,
       "fare": "14.0"
+    },
+{
+      "rt": "96A",
+      "chi": "恆域站",
+      "eng": "Hanwick TRR",
+      "dir": true,
+      "term": 2,
+      "total": 2,
+      "fare": "5.0"
+    },
 {
       "rt": "98X",
       "chi": "恆域站",
@@ -211,6 +245,6 @@
       "term": 3,
       "total": 3,
       "fare": "5.8"
-    },
+    }
   ]
 }
