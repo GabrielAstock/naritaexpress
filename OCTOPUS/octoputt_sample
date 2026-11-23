@@ -268,18 +268,9 @@
       "chi": "船塢里",
       "eng": "Shipyard Lane",
       "dir": true,
-      "term": 1,
+      "term": 2,
       "total": 2,
       "fare": "5.0"
-    },
-{
-      "rt": "96B",
-      "chi": "船塢里",
-      "eng": "Shipyard Lane",
-      "dir": false,
-      "term": 1,
-      "total": 2,
-      "fare": "14.0"
     },
 {
       "rt": "96B",
