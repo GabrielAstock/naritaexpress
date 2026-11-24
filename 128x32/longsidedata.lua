@@ -453,19 +453,18 @@ while wait() do
 		wait(4)
 		
 	--elseif script.Parent.Model.Rt.R.Num.Text == "B1Y" then
-		--show("rbxassetid://88295298090665","rbxassetid://74165048448556","rbxassetid://97821441322668")
-
-	--elseif script.Parent.Model.Rt.R.Num.Text == "B1Z" then
 		--show("rbxassetid://105685342078024","rbxassetid://126798930142924","rbxassetid://97821441322668")
 		--wait(4)
 		--show("rbxassetid://88884196027205","rbxassetid://81773188496086","rbxassetid://97821441322668")
+		
+	--elseif script.Parent.Model.Rt.R.Num.Text == "B1Z" then
+		--show("rbxassetid://88295298090665","rbxassetid://74165048448556","rbxassetid://97821441322668")
 
 	--elseif script.Parent.Model.Rt.R.Num.Text == "B3Y" then
-		--show("rbxassetid://101527878759623","rbxassetid://139830432294681","rbxassetid://128147761279266")
-
-	--elseif script.Parent.Model.Rt.R.Num.Text == "B3Z" then
 		--show("rbxassetid://82313270374177","rbxassetid://132942609951513","rbxassetid://128147761279266")
 
+	--elseif script.Parent.Model.Rt.R.Num.Text == "B3Z" then
+		--show("rbxassetid://101527878759623","rbxassetid://139830432294681","rbxassetid://128147761279266")
 		
 	--elseif script.Parent.Model.Rt.R.Num.Text == "S1Y" then
 		--show("rbxassetid://133200189256109","rbxassetid://107800853624582","rbxassetid://127725962050309")
