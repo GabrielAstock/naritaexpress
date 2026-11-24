@@ -380,7 +380,4 @@ while wait() do
         script.Parent.RearL.R.Num.Text = script.Parent.Model.Rt.R.Num.Text
         script.Parent.SideL.R.Num.Text = script.Parent.Model.Rt.R.Num.Text
 	end
-
-	end
-
 end
