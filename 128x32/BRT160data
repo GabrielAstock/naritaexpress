@@ -41,7 +41,12 @@ while wait() do
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "BRT" then
 		show("rbxassetid://125946088657262","rbxassetid://125946088657262","rbxassetid://97019838659675")
-		
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "HWAT" then
+		show("rbxassetid://77606514614053","rbxassetid://131493440561403","rbxassetid://112779914514503")
+		wait(4)
+		show("rbxassetid://122530476173082","rbxassetid://111117673155347","rbxassetid://112779914514503")
+
 	elseif script.Parent.Model.Rt.R.Num.Text == "PR1" then
 		show("rbxassetid://125946088657262","rbxassetid://125946088657262","rbxassetid://97019838659675")
 		wait(4)
