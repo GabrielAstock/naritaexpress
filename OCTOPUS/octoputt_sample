@@ -27,7 +27,12 @@
     "N93",
     "N94",
     "N96",
-    "N98"
+    "N98",
+    "S1",
+    "S2",
+    "S3",
+    "B1",
+    "B3"
   ],
   "routeTables": [
     {
@@ -59,7 +64,12 @@
     "N93",
     "N94",
     "N96",
-    "N98"
+    "N98",
+    "S1",
+    "S2",
+    "S3",
+    "B1",
+    "B3"
       ],
       "text": [
         "(NEX)",
@@ -851,6 +861,96 @@
       "term": 2,
       "total": 2,
       "fare": "5.8"
+    },
+        {
+      "rt": "S1",
+      "chi": "此路線尚未投入服務",
+      "eng": "This route is not available yet",
+      "dir": true,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
+    },
+        {
+      "rt": "S1",
+      "chi": "此路線尚未投入服務",
+      "eng": "This route is not available yet",
+      "dir": false,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
+    },
+        {
+      "rt": "S2",
+      "chi": "此路線尚未投入服務",
+      "eng": "This route is not available yet",
+      "dir": true,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
+    },
+        {
+      "rt": "S2",
+      "chi": "此路線尚未投入服務",
+      "eng": "This route is not available yet",
+      "dir": false,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
+    },
+        {
+      "rt": "S3",
+      "chi": "此路線尚未投入服務",
+      "eng": "This route is not available yet",
+      "dir": true,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
+    },
+        {
+      "rt": "S3",
+      "chi": "此路線尚未投入服務",
+      "eng": "This route is not available yet",
+      "dir": false,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
+    },
+        {
+      "rt": "B1",
+      "chi": "此路線尚未投入服務",
+      "eng": "This route is not available yet",
+      "dir": true,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
+    },
+        {
+      "rt": "B1",
+      "chi": "此路線尚未投入服務",
+      "eng": "This route is not available yet",
+      "dir": false,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
+    },
+        {
+      "rt": "B3",
+      "chi": "此路線尚未投入服務",
+      "eng": "This route is not available yet",
+      "dir": true,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
+    },
+        {
+      "rt": "B3",
+      "chi": "此路線尚未投入服務",
+      "eng": "This route is not available yet",
+      "dir": false,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
     }
   ]
 }
