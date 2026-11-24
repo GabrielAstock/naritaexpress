@@ -216,15 +216,17 @@ while wait() do
 		--wait(4)
 
 	--elseif script.Parent.Model.Rt.R.Num.Text == "DY" then
-		--show("rbxassetid://139526314290454","rbxassetid://71892067111974","rbxassetid://111140166071309")
+		--show("rbxassetid://100199641431700","rbxassetid://71892067111974","rbxassetid://111140166071309")
 		--wait(4)
-		--show("rbxassetid://125661453284045","rbxassetid://71747116954760","rbxassetid://111140166071309")
+		--show("rbxassetid://135443718863777","rbxassetid://71747116954760","rbxassetid://111140166071309")
 		--wait(4)
-		--show("rbxassetid://138363143760147","rbxassetid://87317331775584","rbxassetid://111140166071309")
+		--show("rbxassetid://128725896545407","rbxassetid://87317331775584","rbxassetid://111140166071309")
 		--wait(4)
-		--show("rbxassetid://93944456654998","rbxassetid://123301105230922","rbxassetid://111140166071309")
+		--show("rbxassetid://74410137937367","rbxassetid://123301105230922","rbxassetid://111140166071309")
 		--wait(4)
-		--show("rbxassetid://97844782740491","rbxassetid://97850780277423","rbxassetid://111140166071309")
+		--show("rbxassetid://132686121153722","rbxassetid://97850780277423","rbxassetid://111140166071309")
+		--wait(4)
+		--show("rbxassetid://122482313884989","rbxassetid://87582283779326","rbxassetid://111140166071309")
 		--wait(4)
 		
 	--elseif script.Parent.Model.Rt.R.Num.Text == "DZ" then
