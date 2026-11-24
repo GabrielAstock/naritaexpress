@@ -213,7 +213,7 @@
       "rt": "N94",
       "chi": "外港碼頭",
       "eng": "International Ferry Terminal",
-      "dir": true,
+      "dir": false,
       "term": 1,
       "total": 1,
       "fare": "5.8"
