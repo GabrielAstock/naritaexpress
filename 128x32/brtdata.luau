@@ -235,6 +235,8 @@ while wait() do
 		--wait(4)
 		--show("rbxassetid://97844782740491","rbxassetid://97850780277423","rbxassetid://111140166071309")
 		--wait(4)
+		--show("rbxassetid://127839117111032","rbxassetid://87582283779326","rbxassetid://111140166071309")
+		--wait(4)
 		
 	--elseif script.Parent.Model.Rt.R.Num.Text == "DZ" then
 		--show("rbxassetid://80415101984274","rbxassetid://114845009525374","rbxassetid://111140166071309")
