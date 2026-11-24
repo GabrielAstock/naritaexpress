@@ -336,39 +336,75 @@
     },
     {
       "rt": "96P",
-      "chi": "NULL",
-      "eng": "NULL",
+      "chi": "翔宏西域點",
+      "eng": "Cheung Wang West Hub",
       "dir": true,
       "term": 1,
-      "total": 1,
-      "fare": "0.0"
+      "total": 2,
+      "fare": "12.4"
     },
     {
       "rt": "96P",
-      "chi": "NULL",
-      "eng": "NULL",
-      "dir": false,
-      "term": 1,
-      "total": 1,
-      "fare": "0.0"
-    },
-    {
-      "rt": "96X",
-      "chi": "NULL",
-      "eng": "NULL",
+      "chi": "翔宏西域點",
+      "eng": "Cheung Wang West Hub",
       "dir": true,
+      "term": 2,
+      "total": 2,
+      "fare": "5.0"
+    },
+    {
+      "rt": "96P",
+      "chi": "中環西港城",
+      "eng": "Central Western Market",
+      "dir": false,
       "term": 1,
-      "total": 1,
-      "fare": "0.0"
+      "total": 2,
+      "fare": "12.4"
+    },
+    {
+      "rt": "96P",
+      "chi": "中環西港城",
+      "eng": "Central Western Market",
+      "dir": false,
+      "term": 2,
+      "total": 2,
+      "fare": "5.0"
     },
     {
       "rt": "96X",
-      "chi": "NULL",
-      "eng": "NULL",
+      "chi": "恆域站",
+      "eng": "Hanwick TRR",
       "dir": false,
       "term": 1,
-      "total": 1,
-      "fare": "0.0"
+      "total": 2,
+      "fare": "14.0"
+    },
+    {
+      "rt": "96X",
+      "chi": "恆域站",
+      "eng": "Hanwick TRR",
+      "dir": false,
+      "term": 2,
+      "total": 2,
+      "fare": "5.0"
+    },
+    {
+      "rt": "96X",
+      "chi": "中環西港城",
+      "eng": "Central Western Market",
+      "dir": false,
+      "term": 1,
+      "total": 2,
+      "fare": "14.0"
+    },
+    {
+      "rt": "96X",
+      "chi": "中環西港城",
+      "eng": "Central Western Market",
+      "dir": false,
+      "term": 2,
+      "total": 2,
+      "fare": "5.0"
     },
     {
       "rt": "98",
@@ -437,6 +473,114 @@
       "rt": "98A",
       "chi": "中環西醫院",
       "eng": "Central West Hospital",
+      "dir": false,
+      "term": 2,
+      "total": 2,
+      "fare": "5.0"
+    },
+    {
+      "rt": "98B",
+      "chi": "南山邨",
+      "eng": "Nam Shan Estate",
+      "dir": true,
+      "term": 1,
+      "total": 2,
+      "fare": "6.8"
+    },
+    {
+      "rt": "98B",
+      "chi": "南山邨",
+      "eng": "Nam Shan Estate",
+      "dir": true,
+      "term": 2,
+      "total": 2,
+      "fare": "5.0"
+    },
+    {
+      "rt": "98B",
+      "chi": "外港碼頭",
+      "eng": "International Ferry Terminal",
+      "dir": false,
+      "term": 1,
+      "total": 2,
+      "fare": "6.8"
+    },
+    {
+      "rt": "98B",
+      "chi": "外港碼頭",
+      "eng": "International Ferry Terminal",
+      "dir": false,
+      "term": 2,
+      "total": 2,
+      "fare": "4.3"
+    },
+    {
+      "rt": "98D",
+      "chi": "南山邨",
+      "eng": "Nam Shan Estate",
+      "dir": true,
+      "term": 1,
+      "total": 2,
+      "fare": "6.8"
+    },
+    {
+      "rt": "98D",
+      "chi": "南山邨",
+      "eng": "Nam Shan Estate",
+      "dir": true,
+      "term": 2,
+      "total": 2,
+      "fare": "4.3"
+    },
+    {
+      "rt": "98D",
+      "chi": "皇家布倫東大學",
+      "eng": "Royal Brendon University",
+      "dir": true,
+      "term": 1,
+      "total": 2,
+      "fare": "6.8"
+    },
+    {
+      "rt": "98D",
+      "chi": "皇家布倫東大學",
+      "eng": "Royal Brendon University",
+      "dir": true,
+      "term": 2,
+      "total": 2,
+      "fare": "5.0"
+    },
+    {
+      "rt": "98F",
+      "chi": "中環博覽館",
+      "eng": "Central Expo",
+      "dir": true,
+      "term": 1,
+      "total": 2,
+      "fare": "6.8"
+    },
+    {
+      "rt": "98F",
+      "chi": "中環博覽館",
+      "eng": "Central Expo",
+      "dir": true,
+      "term": 2,
+      "total": 2,
+      "fare": "5.0"
+    },
+    {
+      "rt": "98F",
+      "chi": "海盛邨",
+      "eng": "Hoi Shing Estate",
+      "dir": false,
+      "term": 1,
+      "total": 2,
+      "fare": "6.8"
+    },
+    {
+      "rt": "98F",
+      "chi": "海盛邨",
+      "eng": "Hoi Shing Estate",
       "dir": false,
       "term": 2,
       "total": 2,
