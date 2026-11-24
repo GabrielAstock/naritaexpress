@@ -128,6 +128,24 @@
       "fare": "0.0"
     },
     {
+      "rt": "N93",
+      "chi": "NULL",
+      "eng": "NULL",
+      "dir": true,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
+    },
+    {
+      "rt": "N93",
+      "chi": "NULL",
+      "eng": "NULL",
+      "dir": false,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
+    },
+    {
       "rt": "94",
       "chi": "中環西醫院",
       "eng": "Central West Hospital",
@@ -180,6 +198,24 @@
       "term": 3,
       "total": 6,
       "fare": "4.7"
+    },
+    {
+      "rt": "N94",
+      "chi": "中環西醫院",
+      "eng": "Central West Hospital",
+      "dir": true,
+      "term": 1,
+      "total": 1,
+      "fare": "5.8"
+    },
+    {
+      "rt": "N94",
+      "chi": "外港碼頭",
+      "eng": "International Ferry Terminal",
+      "dir": true,
+      "term": 1,
+      "total": 1,
+      "fare": "5.8"
     },
     {
       "rt": "96",
@@ -407,6 +443,51 @@
       "fare": "5.0"
     },
     {
+      "rt": "N96",
+      "chi": "逸華邨",
+      "eng": "Yat Wah Estate",
+      "dir": true,
+      "term": 1,
+      "total": 3,
+      "fare": "23.9"
+    },
+    {
+      "rt": "N96",
+      "chi": "逸華邨",
+      "eng": "Yat Wah Estate",
+      "dir": true,
+      "term": 2,
+      "total": 3,
+      "fare": "7.3"
+    },
+    {
+      "rt": "N96",
+      "chi": "逸華邨",
+      "eng": "Yat Wah Estate",
+      "dir": true,
+      "term": 3,
+      "total": 3,
+      "fare": "5.8"
+    },
+    {
+      "rt": "N96",
+      "chi": "外港碼頭",
+      "eng": "International Ferry Terminal",
+      "dir": true,
+      "term": 1,
+      "total": 2,
+      "fare": "23.9"
+    },
+    {
+      "rt": "N96",
+      "chi": "外港碼頭",
+      "eng": "International Ferry Terminal",
+      "dir": true,
+      "term": 1,
+      "total": 2,
+      "fare": "5.8"
+    },
+    {
       "rt": "98",
       "chi": "文華邨",
       "eng": "Man Wah Estate",
@@ -629,6 +710,42 @@
       "dir": false,
       "term": 3,
       "total": 3,
+      "fare": "5.8"
+    },
+    {
+      "rt": "N98",
+      "chi": "中環德政圍",
+      "eng": "Central Tak Ching Circuit",
+      "dir": true,
+      "term": 1,
+      "total": 2,
+      "fare": "11.6"
+    },
+    {
+      "rt": "N98",
+      "chi": "中環德政圍",
+      "eng": "Central Tak Ching Circuit",
+      "dir": true,
+      "term": 2,
+      "total": 2,
+      "fare": "5.8"
+    },
+    {
+      "rt": "N98",
+      "chi": "南山邨",
+      "eng": "Nam Shan Estate",
+      "dir": false,
+      "term": 1,
+      "total": 2,
+      "fare": "11.6"
+    },
+    {
+      "rt": "N98",
+      "chi": "南山邨",
+      "eng": "Nam Shan Estate",
+      "dir": false,
+      "term": 2,
+      "total": 2,
       "fare": "5.8"
     }
   ]
