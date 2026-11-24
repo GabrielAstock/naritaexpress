@@ -46,6 +46,7 @@ while wait() do
 		show("rbxassetid://131493440561403","rbxassetid://131493440561403","rbxassetid://112779914514503")
 		wait(4)
 		show("rbxassetid://111117673155347","rbxassetid://111117673155347","rbxassetid://112779914514503")
+		wait(4)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "PR1" then
 		show("rbxassetid://125946088657262","rbxassetid://125946088657262","rbxassetid://97019838659675")
