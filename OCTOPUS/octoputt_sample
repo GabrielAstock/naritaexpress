@@ -514,7 +514,7 @@
       "rt": "96X",
       "chi": "恆域站",
       "eng": "Hanwick TRR",
-      "dir": false,
+      "dir": true,
       "term": 1,
       "total": 2,
       "fare": "14.0"
@@ -523,7 +523,7 @@
       "rt": "96X",
       "chi": "恆域站",
       "eng": "Hanwick TRR",
-      "dir": false,
+      "dir": true,
       "term": 2,
       "total": 2,
       "fare": "5.0"
