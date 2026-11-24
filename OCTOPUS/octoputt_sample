@@ -1,27 +1,27 @@
 {
   "routeList": [
     "",
-        "93",
-        "93A",
-        "93C",
-        "94",
-        "94C",
-        "94X",
-        "96",
-        "96A",
-        "96B",
-        "96E",
-        "96P",
-        "98",
-        "98A",
-        "98B",
-        "98D",
-        "98F",
-        "98X",
-        "N93",
-        "N94",
-        "N96",
-        "N98",
+    "93",
+    "93A",
+    "93C",
+    "94",
+    "94C",
+    "94X",
+    "96",
+    "96A",
+    "96B",
+    "96E",
+    "96P",
+    "98",
+    "98A",
+    "98B",
+    "98D",
+    "98F",
+    "98X",
+    "N93",
+    "N94",
+    "N96",
+    "N98"
   ],
   "routeTables": [
     {
@@ -46,7 +46,7 @@
         "N93",
         "N94",
         "N96",
-        "N98",
+        "N98"
       ],
       "text": [
         "(NEX)",
@@ -191,7 +191,7 @@
       "total": 2,
       "fare": "12.4"
     },
-{
+    {
       "rt": "96",
       "chi": "翔宏西城點",
       "eng": "Cheung Wang West Hub",
@@ -209,7 +209,7 @@
       "total": 2,
       "fare": "12.4"
     },
-{
+    {
       "rt": "96",
       "chi": "外港碼頭",
       "eng": "International Ferry Terminal",
@@ -227,7 +227,7 @@
       "total": 2,
       "fare": "14.0"
     },
-{
+    {
       "rt": "96A",
       "chi": "恆域站",
       "eng": "Hanwick TRR",
@@ -245,7 +245,7 @@
       "total": 2,
       "fare": "14.0"
     },
-{
+    {
       "rt": "96A",
       "chi": "中環西醫院",
       "eng": "Central West Hospital",
@@ -254,7 +254,7 @@
       "total": 2,
       "fare": "5.0"
     },
-{
+    {
       "rt": "96B",
       "chi": "船塢里",
       "eng": "Shipyard Lane",
@@ -272,7 +272,7 @@
       "total": 2,
       "fare": "5.0"
     },
-{
+    {
       "rt": "96B",
       "chi": "外港碼頭",
       "eng": "International Ferry Terminal",
@@ -281,7 +281,7 @@
       "total": 3,
       "fare": "14.0"
     },
-{
+    {
       "rt": "96B",
       "chi": "外港碼頭",
       "eng": "International Ferry Terminal",
@@ -290,7 +290,7 @@
       "total": 3,
       "fare": "5.0"
     },
-{
+    {
       "rt": "96B",
       "chi": "外港碼頭",
       "eng": "International Ferry Terminal",
@@ -299,7 +299,7 @@
       "total": 3,
       "fare": "2.7"
     },
-{
+    {
       "rt": "96E",
       "chi": "渡船角碼頭",
       "eng": "Ferry Point Pier",
@@ -308,7 +308,7 @@
       "total": 2,
       "fare": "14.0"
     },
-{
+    {
       "rt": "96E",
       "chi": "渡船角碼頭",
       "eng": "Ferry Point Pier",
@@ -317,7 +317,7 @@
       "total": 2,
       "fare": "5.0"
     },
-{
+    {
       "rt": "96E",
       "chi": "外港碼頭",
       "eng": "International Ferry Terminal",
@@ -326,7 +326,7 @@
       "total": 2,
       "fare": "14.0"
     },
-{
+    {
       "rt": "96E",
       "chi": "外港碼頭",
       "eng": "International Ferry Terminal",
@@ -335,7 +335,7 @@
       "total": 2,
       "fare": "5.0"
     },
-{
+    {
       "rt": "96P",
       "chi": "NULL",
       "eng": "NULL",
@@ -344,7 +344,7 @@
       "total": 1,
       "fare": "0.0"
     },
-{
+    {
       "rt": "96P",
       "chi": "NULL",
       "eng": "NULL",
@@ -353,7 +353,7 @@
       "total": 1,
       "fare": "0.0"
     },
-{
+    {
       "rt": "96X",
       "chi": "NULL",
       "eng": "NULL",
@@ -362,7 +362,7 @@
       "total": 1,
       "fare": "0.0"
     },
-{
+    {
       "rt": "96X",
       "chi": "NULL",
       "eng": "NULL",
@@ -371,7 +371,7 @@
       "total": 1,
       "fare": "0.0"
     },
-{
+    {
       "rt": "98",
       "chi": "文華邨",
       "eng": "Man Wah Estate",
@@ -380,7 +380,7 @@
       "total": 2,
       "fare": "6.8"
     },
-{
+    {
       "rt": "98",
       "chi": "文華邨",
       "eng": "Man Wah Estate",
@@ -389,7 +389,7 @@
       "total": 2,
       "fare": "5.0"
     },
-{
+    {
       "rt": "98",
       "chi": "中環西港城",
       "eng": "Central Western Market",
@@ -398,7 +398,7 @@
       "total": 2,
       "fare": "6.8"
     },
-{
+    {
       "rt": "98",
       "chi": "中環西港城",
       "eng": "Central Western Market",
@@ -407,7 +407,7 @@
       "total": 2,
       "fare": "5.0"
     },
-{
+    {
       "rt": "98A",
       "chi": "文華邨",
       "eng": "Man Wah Estate",
@@ -416,7 +416,7 @@
       "total": 2,
       "fare": "6.2"
     },
-{
+    {
       "rt": "98A",
       "chi": "文華邨",
       "eng": "Man Wah Estate",
@@ -425,7 +425,7 @@
       "total": 2,
       "fare": "5.0"
     },
-{
+    {
       "rt": "98A",
       "chi": "中環西醫院",
       "eng": "Central West Hospital",
@@ -434,7 +434,7 @@
       "total": 2,
       "fare": "6.2"
     },
-{
+    {
       "rt": "98A",
       "chi": "中環西醫院",
       "eng": "Central West Hospital",
@@ -443,7 +443,7 @@
       "total": 2,
       "fare": "5.0"
     },
-{
+    {
       "rt": "98X",
       "chi": "澄謐灣",
       "eng": "Tranquillity Bay",
@@ -452,7 +452,7 @@
       "total": 2,
       "fare": "8.4"
     },
-{
+    {
       "rt": "98X",
       "chi": "澄謐灣",
       "eng": "Tranquillity Bay",
@@ -461,7 +461,7 @@
       "total": 2,
       "fare": "5.0"
     },
-{
+    {
       "rt": "98X",
       "chi": "西港城",
       "eng": "Western Market",
@@ -470,7 +470,7 @@
       "total": 3,
       "fare": "8.4"
     },
-{
+    {
       "rt": "98X",
       "chi": "西港城",
       "eng": "Western Market",
@@ -479,7 +479,7 @@
       "total": 3,
       "fare": "6.8"
     },
-{
+    {
       "rt": "98X",
       "chi": "西港城",
       "eng": "Western Market",
