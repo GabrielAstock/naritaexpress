@@ -465,24 +465,26 @@ while wait() do
 
 	--elseif script.Parent.Model.Rt.R.Num.Text == "B3Z" then
 		--show("rbxassetid://101527878759623","rbxassetid://139830432294681","rbxassetid://128147761279266")
-		
-	--elseif script.Parent.Model.Rt.R.Num.Text == "S1Y" then
-		--show("rbxassetid://133200189256109","rbxassetid://107800853624582","rbxassetid://127725962050309")
 
-	--elseif script.Parent.Model.Rt.R.Num.Text == "S1Z" then
+		--elseif script.Parent.Model.Rt.R.Num.Text == "S1Y" then
 		--show("rbxassetid://88465115939661","rbxassetid://121118891823224","rbxassetid://127725962050309")
-
-	--elseif script.Parent.Model.Rt.R.Num.Text == "S2Y" then
+		
+		--elseif script.Parent.Model.Rt.R.Num.Text == "S1Z" then
+		--show("rbxassetid://133200189256109","rbxassetid://107800853624582","rbxassetid://127725962050309")
+		
+		--elseif script.Parent.Model.Rt.R.Num.Text == "S2Y" then
+		--show("rbxassetid://124704596732973","rbxassetid://105211279921673","rbxassetid://95335148158263")
+		
+		--elseif script.Parent.Model.Rt.R.Num.Text == "S2Z" then
 		--show("rbxassetid://81309233064989","rbxassetid://78075430120682","rbxassetid://95335148158263")
 
-	--elseif script.Parent.Model.Rt.R.Num.Text == "S2Z" then
-		--show("rbxassetid://124704596732973","rbxassetid://105211279921673","rbxassetid://95335148158263")
-
-	--elseif script.Parent.Model.Rt.R.Num.Text == "S3Y" then
+		--elseif script.Parent.Model.Rt.R.Num.Text == "S3Y" then
+		--show("rbxassetid://97417799107282","rbxassetid://97713979719011","rbxassetid://118185949811355")
+		
+		--elseif script.Parent.Model.Rt.R.Num.Text == "S3Z" then
 		--show("rbxassetid://116387113496281","rbxassetid://81189783567567","rbxassetid://118185949811355")
 
-	--elseif script.Parent.Model.Rt.R.Num.Text == "S3Z" then
-		--show("rbxassetid://97417799107282","rbxassetid://97713979719011","rbxassetid://118185949811355")
+
 
 
 
