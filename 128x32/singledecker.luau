@@ -626,6 +626,9 @@ while wait() do
 
 	else show("rbxassetid://91635280603257","rbxassetid://91635280603257","rbxassetid://97019838659675")
 
+	elseif script.Parent.Model.Rt.R.Num.Text == "" then
+		show("rbxassetid://91635280603257","rbxassetid://91635280603257","rbxassetid://97019838659675")
+
 		--script.Parent.Back.R.Num.Text = script.Parent.Model.Rt.R.Num.Text
 		--script.Parent.Front.R.Num.Text = script.Parent.Model.Rt.R.Num.Text
 		--script.Parent.Rear.R.Num.Text = script.Parent.Model.Rt.R.Num.Text
