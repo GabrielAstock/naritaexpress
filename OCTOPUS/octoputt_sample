@@ -731,7 +731,7 @@
       "rt": "98D",
       "chi": "皇家布倫東大學",
       "eng": "Royal Brendon University",
-      "dir": true,
+      "dir": false,
       "term": 1,
       "total": 2,
       "fare": "6.8"
@@ -740,7 +740,7 @@
       "rt": "98D",
       "chi": "皇家布倫東大學",
       "eng": "Royal Brendon University",
-      "dir": true,
+      "dir": false,
       "term": 2,
       "total": 2,
       "fare": "5.0"
