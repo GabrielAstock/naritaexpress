@@ -369,11 +369,11 @@ while wait() do
 		wait(4)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "98Y" then
-		show("rbxassetid://133077763830028","rbxassetid://100176393626296","rbxassetid://78041236579750")
+		show("rbxassetid://74868116134288","rbxassetid://134395628717316","rbxassetid://78041236579750")
 		wait(4)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "98Z" then
-		show("rbxassetid://74868116134288","rbxassetid://134395628717316","rbxassetid://78041236579750")
+		show("rbxassetid://133077763830028","rbxassetid://100176393626296","rbxassetid://78041236579750")
 		wait(4)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "98AY" then
