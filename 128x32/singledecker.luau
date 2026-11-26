@@ -460,7 +460,7 @@ while wait() do
 		elseif script.Parent.Model.Rt.R.Num.Text == "99Y" then
 		show("rbxassetid://140714102339057","rbxassetid://113693045499715","rbxassetid://131315405539322")
 		wait(4)
-		show("rbxassetid://78398949698471","rbxassetid://104585942266094","rbxassetid://131315405539322")
+		show("rbxassetid://113360499814313","rbxassetid://104585942266094","rbxassetid://131315405539322")
 		wait(4)
 		show("rbxassetid://112623283517477","rbxassetid://109295641503543","rbxassetid://131315405539322")
 		wait(4)
@@ -490,7 +490,7 @@ while wait() do
 		wait(4)
 		show("rbxassetid://129513923648565","rbxassetid://113693045499715","rbxassetid://131315405539322")
 		wait(4)
-		show("rbxassetid://78398949698471","rbxassetid://104585942266094","rbxassetid://131315405539322")
+		show("rbxassetid://113360499814313","rbxassetid://104585942266094","rbxassetid://131315405539322")
 		wait(4)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "N98Y" then
