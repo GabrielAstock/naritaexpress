@@ -444,6 +444,43 @@ while wait() do
 		show("rbxassetid://124608649907734","rbxassetid://133041843373393","rbxassetid://99020963808441")
 		wait(4)	
 
+		--elseif script.Parent.Model.Rt.R.Num.Text == "99Y" then
+		--show("rbxassetid://79577833105939","rbxassetid://113693045499715","rbxassetid://131315405539322")
+		--wait(4)
+		--show("rbxassetid://127642698237946","rbxassetid://104585942266094","rbxassetid://131315405539322")
+		--wait(4)
+		--show("rbxassetid://93964204765162","rbxassetid://109295641503543","rbxassetid://131315405539322")
+		--wait(4)
+		--show("rbxassetid://79577833105939","rbxassetid://113693045499715","rbxassetid://131315405539322")
+		--wait(4)
+		--show("rbxassetid://102472381800487","rbxassetid://124851746526433","rbxassetid://131315405539322")
+		--wait(4)
+		--show("rbxassetid://83108393522259","rbxassetid://86072216168836","rbxassetid://131315405539322")
+		--wait(4)
+		--show("rbxassetid://79577833105939","rbxassetid://113693045499715","rbxassetid://131315405539322")
+		--wait(4)
+		--show("rbxassetid://100762282455399","rbxassetid://123942881678333","rbxassetid://131315405539322")
+		--wait(4)
+		
+		--elseif script.Parent.Model.Rt.R.Num.Text == "99Z" then
+		--show("rbxassetid://101331435341003","rbxassetid://113693045499715","rbxassetid://131315405539322")
+		--wait(4)
+		--show("rbxassetid://100762282455399","rbxassetid://123942881678333","rbxassetid://131315405539322")
+		--wait(4)
+		--show("rbxassetid://83108393522259","rbxassetid://86072216168836","rbxassetid://131315405539322")
+		--wait(4)
+		--show("rbxassetid://101331435341003","rbxassetid://113693045499715","rbxassetid://131315405539322")
+		--wait(4)
+		--show("rbxassetid://102472381800487","rbxassetid://124851746526433","rbxassetid://131315405539322")
+		--wait(4)
+		--show("rbxassetid://93964204765162","rbxassetid://109295641503543","rbxassetid://131315405539322")
+		--wait(4)
+		--show("rbxassetid://101331435341003","rbxassetid://113693045499715","rbxassetid://131315405539322")
+		--wait(4)
+		--show("rbxassetid://127642698237946","rbxassetid://104585942266094","rbxassetid://131315405539322")
+		--wait(4)
+		
+
 	elseif script.Parent.Model.Rt.R.Num.Text == "N98Y" then
 		show("rbxassetid://100399542838424","rbxassetid://86644577858498","rbxassetid://81555574010191")
 		wait(4)
