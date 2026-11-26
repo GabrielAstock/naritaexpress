@@ -24,6 +24,7 @@
     "98D",
     "98F",
     "98X",
+    "99",
     "N93",
     "N94",
     "N96",
@@ -61,6 +62,7 @@
     "98D",
     "98F",
     "98X",
+    "99",
     "N93",
     "N94",
     "N96",
@@ -825,6 +827,23 @@
       "term": 3,
       "total": 3,
       "fare": "5.8"
+    },
+      "rt": "99",
+      "chi": "此路線尚未投入服務",
+"eng": "This route is not available yet",
+      "dir": true,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
+    },
+        {
+      "rt": "99",
+      "chi": "此路線尚未投入服務",
+"eng": "This route is not available yet",
+      "dir": false,
+      "term": 1,
+      "total": 1,
+      "fare": "0.0"
     },
     {
       "rt": "N98",
